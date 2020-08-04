@@ -16,7 +16,7 @@ permalink: /publications/
 <td style="text-align:left;">
 Cecilia Nilsson, Adriaan M Dokter, Liesbeth Verlinden, Judy Shamoun‐Baranes, Baptiste Schmid, Peter Desmet, Silke Bauer, Jason Chapman, Jose A Alves, Phillip M Stepanian, Nir Sapir, Charlotte Wainwright, Mathieu Boos, Anna Górska, Myles HM Menz, Pedro Rodrigues, Hidde Leijnse, Pavel Zehtindjiev, Robin Brabant, Günther Haase, Nadja Weisshaupt, Michał Ciach, Felix Liechti (2019) Revealing patterns of nocturnal migration using the European weather radar network. Ecography 42 (5), 876-886 | Citations: 24 | Altmetrics: 128
 
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ecog.04582" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ecog.04003" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
 
 </td>
 </tr>
