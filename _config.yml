@@ -9,9 +9,9 @@ author: Peter Desmet                    # Used for copyright statement in footer
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/about/#links
 
 # SOCIAL PROFILES
-email: your.email@example.com           # Social icon in footer
-twitter_username: peterdesmet           # Social icon in footer
-github_username: peterdesmet            # Social icon in footer
+email: cecilia.nilsson709@gmail.com           # Social icon in footer
+twitter_username: cnilsson709           # Social icon in footer
+github_username: CeciliaNilsson709            # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
 remote_theme: peterdesmet/petridish@1.1
