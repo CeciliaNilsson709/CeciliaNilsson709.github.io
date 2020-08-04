@@ -1,8 +1,8 @@
 
 # SITE SETTINGS
-title: Petridish                        # Title in top navigation bar (navbar) and <head>
-description: Jekyll theme for research project websites # Site description in <head>
-author: Peter Desmet                    # Used for copyright statement in footer
+title: Cecilia Nilsson                       # Title in top navigation bar (navbar) and <head>
+description: "Cecilia Nilsson's personal research page" # Site description in <head>
+author: Cecilia Nilsson                  # Used for copyright statement in footer
 # url: "https://peterdesmet.github.io"  # No slash at the end
 # baseurl: "/petridish"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
@@ -15,7 +15,7 @@ github_username: CeciliaNilsson709            # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
 remote_theme: peterdesmet/petridish@1.1
-posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
+#posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
 tweets_on_home: true                    # Show Twitter feed of twitter_username on homepage
 archive_permalink: /blog/               # Permalink of page using archive.html layout, required when using post categories
 logo: /assets/img/petri-dish_1f9eb.png  # Logo in navbar, will be displayed with 30px height
