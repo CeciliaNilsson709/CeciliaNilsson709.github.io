@@ -4,6 +4,7 @@ description:
 background: https://images.unsplash.com/photo-1486825586573-7131f7991bdd?auto=format&w=2000
 permalink: /publications/
 ---
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 <h3><strong>Cecilia Nilsson</strong>, Cornell University</h3>
 <div id="number-of-publications-25-total-number-of-citations-728-h-index-15-i10-index-19" class="section level4">
@@ -14,6 +15,9 @@ permalink: /publications/
 <tr>
 <td style="text-align:left;">
 Cecilia Nilsson, Adriaan M Dokter, Liesbeth Verlinden, Judy Shamoun‐Baranes, Baptiste Schmid, Peter Desmet, Silke Bauer, Jason Chapman, Jose A Alves, Phillip M Stepanian, Nir Sapir, Charlotte Wainwright, Mathieu Boos, Anna Górska, Myles HM Menz, Pedro Rodrigues, Hidde Leijnse, Pavel Zehtindjiev, Robin Brabant, Günther Haase, Nadja Weisshaupt, Michał Ciach, Felix Liechti (2019) Revealing patterns of nocturnal migration using the European weather radar network. Ecography 42 (5), 876-886 | Citations: 24 | Altmetrics: 128
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ecog.04083" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
+
 </td>
 </tr>
 <tr>
