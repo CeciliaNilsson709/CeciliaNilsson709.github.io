@@ -1,15 +1,11 @@
 ---
 title: Publications
 description: 
-background: https://images.unsplash.com/photo-1486825586573-7131f7991bdd?auto=format&w=2000
+background: /assets/img/IMG_4697.JPG
 permalink: /publications/
 ---
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-<h3><strong>Cecilia Nilsson</strong>, Cornell University</h3>
-<div id="number-of-publications-25-total-number-of-citations-728-h-index-15-i10-index-19" class="section level4">
-<h4>Number of publications: 25, Total number of citations: 728, h index: 15, i10 index: 19</h4>
-<p><em>Citations and publications from Google scholar, updated 2020-08-04. </em></p>
 <table class="table table-striped table-hover" style="margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
