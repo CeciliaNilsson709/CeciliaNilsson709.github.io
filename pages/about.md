@@ -1,7 +1,7 @@
 ---
 title: Cecilia Nilsson
 description: 
-background: /assets/
+background: /assets/mobile_radar_renovation.jpg
 permalink: /about/
 ---
 
