@@ -4,7 +4,10 @@ description:
 background: /assets/IMG_4697.JPG
 permalink: /publications/
 ---
-## 2019  
+
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+  
+##2019  
 -----
   
 **Cecilia Nilsson**, Adriaan M Dokter, Liesbeth Verlinden, Judy Shamoun‐Baranes, Baptiste Schmid, Peter Desmet, Silke Bauer, Jason Chapman, Jose A Alves, Phillip M Stepanian, Nir Sapir, Charlotte Wainwright, Mathieu Boos, Anna Górska, Myles HM Menz, Pedro Rodrigues, Hidde Leijnse, Pavel Zehtindjiev, Robin Brabant, Günther Haase, Nadja Weisshaupt, Michał Ciach, Felix Liechti (2019) [Revealing patterns of nocturnal migration using the European weather radar network.](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ecog.04003) Ecography 42 (5), 876-886,  Citations: 24,  <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04003" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
@@ -35,13 +38,22 @@ Judy Shamoun-Baranes, **Cecilia Nilsson**, Silke Bauer, Jason Chapman (2019) Tak
   
 **Cecilia Nilsson**, Johan Bäckman, Adriaan M Dokter (2019) [Flocking behaviour in the twilight ascents of Common Swifts Apus apus.](https://doi.org/10.1111/ibi.12704) Ibis,  Citations: 0,  <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ibi.12704" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
   
+##2018  
+-----
+  
 **Cecilia Nilsson**, Adriaan M Dokter, Baptiste Schmid, Martina Scacco, Liesbeth Verlinden, Johan Bäckman, Günther Haase, Giacomo Dell’Omo, Jason W Chapman, Hidde Leijnse, Felix Liechti (2018) Field validation of radar systems for monitoring bird migration. Journal of Applied Ecology 55 (6), 2552-2564 | Citations: 23 | <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04003" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
   
 **Cecilia Nilsson**, Kyle G Horton, Adriaan M Dokter, Benjamin M Van Doren, Andrew Farnsworth (2018) Aeroecology of a solar eclipse. Biology letters 14 (11), 20180485 | Citations: 3 | <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04003" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
+   
+##2016  
+-----
   
 Jason W Chapman, **Cecilia Nilsson**, Ka S Lim, Johan Bäckman, Don R Reynolds, Thomas Alerstam (2016) Adaptive strategies in nocturnally migrating insects and songbirds: contrasting responses to wind. Journal of Animal Ecology 85 (1), 115-124 | Citations: 38 | <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04003" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
   
 **Cecilia Nilsson**, Sissel Sjöberg (2016) Causes and characteristics of reverse bird migration: an analysis based on radar, radio tracking and ringing at Falsterbo, Sweden. Journal of Avian Biology 47 (3), 354-362 | Citations: 22 | <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04003" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
+     
+##2015  
+-----
   
 Jason W Chapman, **Cecilia Nilsson**, Ka S Lim, Johan Bäckman, Don R Reynolds, Thomas Alerstam, Andy M Reynolds (2015) Detection of flow direction in high-flying insect and songbird migrants. Current Biology 25 (17), R751-R752 | Citations: 21 | <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04003" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
   
@@ -51,19 +63,31 @@ Sissel Sjöberg, **Cecilia Nilsson** (2015) Nocturnal migratory songbirds adjust
   
 **Cecilia Nilsson** (2015) Flight Behaviour of Passerines on Nocturnal Migration. Lund University | Citations: 1 | <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04003" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
   
+##2014  
+-----
+  
 **Cecilia Nilsson**, Johan Bäckman, Thomas Alerstam (2014) Seasonal modulation of flight speed among nocturnal passerine migrants: differences between short-and long-distance migrants. Behavioral Ecology and Sociobiology 68 (11), 1799-1807 | Citations: 42 | <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04003" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
   
 Gintaras Malmiga, **Cecilia Nilsson**, Johan Bäckman, Thomas Alerstam (2014) Interspecific comparison of the flight performance between sparrowhawks and common buzzards migrating at the Falsterbo peninsula: A radar study. Current Zoology 60 (5), 670-679 | Citations: 17 | <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04003" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
   
 **Cecilia Nilsson**, Johan Bäckman, Thomas Alerstam (2014) Are flight paths of nocturnal songbird migrants influenced by local coastlines at a peninsula?. Current Zoology 60 (5), 660-669 | Citations: 14 | <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04003" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
+     
+##2013  
+-----
   
 **Cecilia Nilsson**, Raymond HG Klaassen, Thomas Alerstam (2013) Differences in speed and duration of bird migration between spring and autumn. The American Naturalist 181 (6), 837-845 | Citations: 213 | <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04003" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
+  
+##2011  
+-----
   
 Thomas Alerstam, Jason W Chapman, Johan Bäckman, Alan D Smith, Håkan Karlsson, **Cecilia Nilsson**, Don R Reynolds, Raymond HG Klaassen, Jane K Hill (2011) Convergent patterns of long-distance nocturnal migration in noctuid moths and passerine birds. Proceedings of the Royal Society B: Biological Sciences 278 (1721), 3074-3080 | Citations: 101 | <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04003" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
   
 Håkan Karlsson, **Cecilia Nilsson**, Johan Bäckman, Thomas Alerstam (2011) Nocturnal passerine migrants fly faster in spring than in autumn: a test of the time minimization hypothesis. Animal Behaviour | Citations: 42 |<span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04003" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
   
 Håkan Karlsson, **Cecilia Nilsson**, Johan Bäckman, Thomas Alerstam (2011) Nocturnal passerine migration without tailwind assistance. Ibis | Citations: 41 | <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04003" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
+    
+##2010  
+-----
   
 Håkan Karlsson, Johan Bäckman, **Cecilia Nilsson**, Thomas Alerstam (2010) Exaggerated orientation scatter of nocturnal passerine migrants close to breeding grounds: comparisons between seasons and latitudes. Behavioral ecology and sociobiology 64 (12), 2021-2031 | Citations: 16 | <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04003" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
   
