@@ -18,3 +18,10 @@ After receiving my PhD I did a 1-year postdoc at Vogelvarte Sempach in Switzerla
 In 2017 I was awarded a Edward W. Rose Postdoctoral Fellowship and spent 2 years at the Cornell Lab of Ornithology, Cornell University, USA. There I extracted and analyzed bird movement data from the US weather radar network, NEXRAD, and investigated continental scale patterns of bird migration and flight behavior.
 
 Currently I am working as a Marie Skłodowska-Curie post doc fellow at the Center for Macroecology and Evolution at the University of Copenhagen.
+  
+---
+  
+Find me on: [Orcid](https://orcid.org/0000-0001-8957-4411), [ReseachGate](https://www.researchgate.net/profile/Cecilia_Nilsson) or [Google Scholar](https://scholar.google.com/citations?user=A-9PdlkAAAAJ&hl=en)
+ 
+---
+  
