@@ -4,12 +4,12 @@
   href: /
 - text: Publications
   href: /publications/
-- text: CV
-  href: /cv/
-- text: Media Coverage
-  href: /coverage/
-- text: Talks
-  href: /talks/
+#- text: CV
+#  href: /cv/
+#- text: Media Coverage
+#  href: /coverage/
+#- text: Talks
+#  href: /talks/
   
 #- text: Output
  # menu: # Dropdown menu (one level deep only)

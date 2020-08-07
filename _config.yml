@@ -18,7 +18,7 @@ remote_theme: peterdesmet/petridish@1.1
 #posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
 tweets_on_home: true                    # Show Twitter feed of twitter_username on homepage
 archive_permalink: /blog/               # Permalink of page using archive.html layout, required when using post categories
-logo: /assets/cecilia-nilsson.jpg       # Logo in navbar, will be displayed with 30px height
+logo: /assets/cecilia-nilsson.png       # Logo in navbar, will be displayed with 30px height
 colors:
   links: "#78a04b"                      # Color for links: use a readable color that contrasts well with dark text
   banner: "#78a04b"                     # Background color for page banners: use color that contrasts well with white
