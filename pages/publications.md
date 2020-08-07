@@ -25,8 +25,8 @@ Adriaan M Dokter, Peter Desmet, Jurriaan H Spaaks, Stijn van Hoey, Lourens Veen,
 Kyle G Horton, **Cecilia Nilsson**, Benjamin M Van Doren, Frank A La Sorte, Adriaan M Dokter, Andrew Farnsworth (2019) [Bright lights in the big cities: migratory birds’ exposure to artificial light.](https://doi.org/10.1002/fee.2029),  Frontiers in Ecology and the Environment,  Citations: 19 
 <span data-badge-popover="right" data-badge-type="4" data-doi="10.1002/fee.2029" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
   
-Tsung‐Yu Lin, Kevin Winner, Garrett Bernstein, Abhay Mittal, Adriaan M Dokter, Kyle G Horton, **Cecilia Nilsson**, Benjamin M Van Doren, Andrew Farnsworth, Frank A La Sorte, Subhransu Maji, Daniel Sheldon (2019) [MistNet: Measuring historical bird migration in the US using archived weather radar data and convolutional neural networks.] (https://doi.org/10.1111/2041-210X.13280), Methods in Ecology and Evolution 10 (11), 1908-1922, Citations: 14 |
-<span data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/2041-210X.13280" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
+Tsung‐Yu Lin, Kevin Winner, Garrett Bernstein, Abhay Mittal, Adriaan M Dokter, Kyle G Horton, **Cecilia Nilsson**, Benjamin M Van Doren, Andrew Farnsworth, Frank A La Sorte, Subhransu Maji, Daniel Sheldon (2019) [MistNet: Measuring historical bird migration in the US using archived weather radar data and convolutional neural networks.] (https://doi.org/10.1111/2041-210X.13280), Methods in Ecology and Evolution 10 (11), 1908-1922, Citations: 14
+<span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/2041-210X.13280" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
   
 Frank A La Sorte, Kyle G Horton, **Cecilia Nilsson**, Adriaan M Dokter (2019) 
 [Projected changes in wind assistance under climate change for nocturnally migrating bird populations](https://par.nsf.gov/servlets/purl/10092560). 
