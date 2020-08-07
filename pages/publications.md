@@ -4,25 +4,36 @@ description:
 background: /assets/IMG_4697.JPG
 permalink: /publications/
 ---
-### 2019  
+## 2019  
+-----
   
-**Cecilia Nilsson**, Adriaan M Dokter, Liesbeth Verlinden, Judy Shamoun‐Baranes, Baptiste Schmid, Peter Desmet, Silke Bauer, Jason Chapman, Jose A Alves, Phillip M Stepanian, Nir Sapir, Charlotte Wainwright, Mathieu Boos, Anna Górska, Myles HM Menz, Pedro Rodrigues, Hidde Leijnse, Pavel Zehtindjiev, Robin Brabant, Günther Haase, Nadja Weisshaupt, Michał Ciach, Felix Liechti (2019) [Revealing patterns of nocturnal migration using the European weather radar network.](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ecog.04003) Ecography 42 (5), 876-886 | Citations: 24 | <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04003" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
+**Cecilia Nilsson**, Adriaan M Dokter, Liesbeth Verlinden, Judy Shamoun‐Baranes, Baptiste Schmid, Peter Desmet, Silke Bauer, Jason Chapman, Jose A Alves, Phillip M Stepanian, Nir Sapir, Charlotte Wainwright, Mathieu Boos, Anna Górska, Myles HM Menz, Pedro Rodrigues, Hidde Leijnse, Pavel Zehtindjiev, Robin Brabant, Günther Haase, Nadja Weisshaupt, Michał Ciach, Felix Liechti (2019) [Revealing patterns of nocturnal migration using the European weather radar network.](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ecog.04003) Ecography 42 (5), 876-886,  Citations: 24,  <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04003" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
   
-Silke Bauer, Judy Shamoun‐Baranes, **Cecilia Nilsson**, Andrew Farnsworth, Jeffrey F Kelly, Don R Reynolds, Adriaan M Dokter, Jennifer F Krauel, Lars B Petterson, Kyle G Horton, Jason W Chapman (2019) The grand challenges of migration ecology that radar aeroecology can help answer. Ecography 42 (5), 861-875 | Citations: 21 | <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04003" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
+Silke Bauer, Judy Shamoun‐Baranes, **Cecilia Nilsson**, Andrew Farnsworth, Jeffrey F Kelly, Don R Reynolds, Adriaan M Dokter, Jennifer F Krauel, Lars B Petterson, Kyle G Horton, Jason W Chapman (2019) 
+[The grand challenges of migration ecology that radar aeroecology can help answer](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ecog.04083). 
+Ecography 42 (5), 861-875, Citations: 21, 
+<span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04083" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
   
-Adriaan M Dokter, Peter Desmet, Jurriaan H Spaaks, Stijn van Hoey, Lourens Veen, Liesbeth Verlinden, **Cecilia Nilsson**, Günther Haase, Hidde Leijnse, Andrew Farnsworth, Willem Bouten, Judy Shamoun‐Baranes (2019) bioRad: biological analysis and visualization of weather radar data. Ecography 42 (5), 852-860 | Citations: 20 | <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04003" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
+Adriaan M Dokter, Peter Desmet, Jurriaan H Spaaks, Stijn van Hoey, Lourens Veen, Liesbeth Verlinden, **Cecilia Nilsson**, Günther Haase, Hidde Leijnse, Andrew Farnsworth, Willem Bouten, Judy Shamoun‐Baranes (2019) 
+[bioRad: biological analysis and visualization of weather radar data.](https://onlinelibrary.wiley.com/doi/abs/10.1111/ecog.04028)
+, Ecography 42 (5), 852-860, Citations: 20, 
+<span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04028" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
   
-Kyle G Horton, **Cecilia Nilsson**, Benjamin M Van Doren, Frank A La Sorte, Adriaan M Dokter, Andrew Farnsworth (2019) Bright lights in the big cities: migratory birds’ exposure to artificial light. Frontiers in Ecology and the Environment | Citations: 19 | <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04003" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
+Kyle G Horton, **Cecilia Nilsson**, Benjamin M Van Doren, Frank A La Sorte, Adriaan M Dokter, Andrew Farnsworth (2019) [Bright lights in the big cities: migratory birds’ exposure to artificial light.](https://doi.org/10.1002/fee.2029),  Frontiers in Ecology and the Environment,  Citations: 19, 
+<span data-badge-popover="right" data-badge-type="4" data-doi="10.1002/fee.2029" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
   
-Tsung‐Yu Lin, Kevin Winner, Garrett Bernstein, Abhay Mittal, Adriaan M Dokter, Kyle G Horton, **Cecilia Nilsson**, Benjamin M Van Doren, Andrew Farnsworth, Frank A La Sorte, Subhransu Maji, Daniel Sheldon (2019) MistNet: Measuring historical bird migration in the US using archived weather radar data and convolutional neural networks. Methods in Ecology and Evolution 10 (11), 1908-1922 | Citations: 14 | <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04003" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
+Tsung‐Yu Lin, Kevin Winner, Garrett Bernstein, Abhay Mittal, Adriaan M Dokter, Kyle G Horton, **Cecilia Nilsson**, Benjamin M Van Doren, Andrew Farnsworth, Frank A La Sorte, Subhransu Maji, Daniel Sheldon (2019) [MistNet: Measuring historical bird migration in the US using archived weather radar data and convolutional neural networks.] (https://doi.org/10.1111/2041-210X.13280), Methods in Ecology and Evolution 10 (11), 1908-1922, Citations: 14,  
+<span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/2041-210X.13280" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
   
-Frank A La Sorte, Kyle G Horton, **Cecilia Nilsson**, Adriaan M Dokter (2019) Projected changes in wind assistance under climate change for nocturnally migrating bird populations. Global change biology 25 (2), 589-601 | Citations: 14 | <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04003" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
+Frank A La Sorte, Kyle G Horton, **Cecilia Nilsson**, Adriaan M Dokter (2019) 
+[Projected changes in wind assistance under climate change for nocturnally migrating bird populations](https://par.nsf.gov/servlets/purl/10092560). 
+Global change biology 25 (2), 589-601, Citations: 14,  <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/gcb.14531" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
   
 Patrick B Newcombe, **Cecilia Nilsson**, Tsung-Yu Lin, Kevin Winner, Garrett Bernstein, Subhransu Maji, Daniel Sheldon, Andrew Farnsworth, Kyle G Horton (2019) Migratory flight on the Pacific Flyway: strategies and tendencies of wind drift compensation. Biology Letters 15 (9), 20190383 | Citations: 1 | <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04003" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
   
 Judy Shamoun-Baranes, **Cecilia Nilsson**, Silke Bauer, Jason Chapman (2019) Taking radar aeroecology into the 21st century. Wiley | Citations: 1 | <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04003" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
   
-**Cecilia Nilsson**, Johan Bäckman, Adriaan M Dokter (2019) Flocking behaviour in the twilight ascents of Common Swifts Apus apus. Ibis | Citations: 0 | <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04003" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
+**Cecilia Nilsson**, Johan Bäckman, Adriaan M Dokter (2019) [Flocking behaviour in the twilight ascents of Common Swifts Apus apus.](https://doi.org/10.1111/ibi.12704) Ibis,  Citations: 0,  <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ibi.12704" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
   
 **Cecilia Nilsson**, Adriaan M Dokter, Baptiste Schmid, Martina Scacco, Liesbeth Verlinden, Johan Bäckman, Günther Haase, Giacomo Dell’Omo, Jason W Chapman, Hidde Leijnse, Felix Liechti (2018) Field validation of radar systems for monitoring bird migration. Journal of Applied Ecology 55 (6), 2552-2564 | Citations: 23 | <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04003" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
   
@@ -54,7 +65,7 @@ Håkan Karlsson, **Cecilia Nilsson**, Johan Bäckman, Thomas Alerstam (2011) Noc
   
 Håkan Karlsson, **Cecilia Nilsson**, Johan Bäckman, Thomas Alerstam (2011) Nocturnal passerine migration without tailwind assistance. Ibis | Citations: 41 | <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04003" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
   
-Håkan Karlsson, Johan Bäckman, ****Cecilia Nilsson****, Thomas Alerstam (2010) Exaggerated orientation scatter of nocturnal passerine migrants close to breeding grounds: comparisons between seasons and latitudes. Behavioral ecology and sociobiology 64 (12), 2021-2031 | Citations: 16 | <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04003" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
+Håkan Karlsson, Johan Bäckman, **Cecilia Nilsson**, Thomas Alerstam (2010) Exaggerated orientation scatter of nocturnal passerine migrants close to breeding grounds: comparisons between seasons and latitudes. Behavioral ecology and sociobiology 64 (12), 2021-2031 | Citations: 16 | <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04003" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
   
 <p><em>Citations and publication data from Google scholar, updated 2020-08-04. </em></p>
 
