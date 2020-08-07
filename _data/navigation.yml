@@ -2,10 +2,10 @@
 
 - text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
-- text: Publications
-  href: /publications/
 - text: About me
   href: /about/
+- text: Publications
+  href: /publications/
 #- text: Media Coverage
 #  href: /coverage/
 #- text: Talks
