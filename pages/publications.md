@@ -33,7 +33,7 @@ Frank A La Sorte, Kyle G Horton, **Cecilia Nilsson**, Adriaan M Dokter (2019)
 Global change biology 25 (2), 589-601, Citations: 14 
 <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/gcb.14531" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
   
-Patrick B Newcombe, **Cecilia Nilsson**, Tsung-Yu Lin, Kevin Winner, Garrett Bernstein, Subhransu Maji, Daniel Sheldon, Andrew Farnsworth, Kyle G Horton (2019) [Migratory flight on the Pacific Flyway: strategies and tendencies of wind drift compensation.](https://doi.org/10.1098/rsbl.2019.0383) Biology Letters 15 (9), 20190383 | Citations: 1 <span data-badge-popover="right" data-badge-type="4" data-doi="10.1098/rsbl.2019.0383" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
+Patrick B Newcombe, **Cecilia Nilsson**, Tsung-Yu Lin, Kevin Winner, Garrett Bernstein, Subhransu Maji, Daniel Sheldon, Andrew Farnsworth, Kyle G Horton (2019) [Migratory flight on the Pacific Flyway: strategies and tendencies of wind drift compensation.](https://doi.org/10.1098/rsbl.2019.0383) Biology Letters 15 (9), 20190383, Citations: 1 <span data-badge-popover="right" data-badge-type="4" data-doi="10.1098/rsbl.2019.0383" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
   
 Judy Shamoun-Baranes, **Cecilia Nilsson**, Silke Bauer, Jason Chapman (2019) [Taking radar aeroecology into the 21st century](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ecog.04582). Ecography, 42: 847-851,  Citations: 1 <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04582" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
   
@@ -49,14 +49,14 @@ Judy Shamoun-Baranes, **Cecilia Nilsson**, Silke Bauer, Jason Chapman (2019) [Ta
 ## 2016  
 -----
   
-Jason W Chapman, **Cecilia Nilsson**, Ka S Lim, Johan Bäckman, Don R Reynolds, Thomas Alerstam (2016) [Adaptive strategies in nocturnally migrating insects and songbirds: contrasting responses to wind.]( https://doi.org/10.1111/1365-2656.12420) Journal of Animal Ecology 85 (1), 115-124, Citations: 38 <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/1365-2656.12420" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
+Jason W Chapman, **Cecilia Nilsson**, Ka S Lim, Johan Bäckman, Don R Reynolds, Thomas Alerstam (2016) [Adaptive strategies in nocturnally migrating insects and songbirds: contrasting responses to wind.](https://doi.org/10.1111/1365-2656.12420) Journal of Animal Ecology 85 (1), 115-124, Citations: 38 <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/1365-2656.12420" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
   
-**Cecilia Nilsson**, Sissel Sjöberg (2016) [Causes and characteristics of reverse bird migration: an analysis based on radar, radio tracking and ringing at Falsterbo, Sweden.] (https://doi.org/10.1111/jav.00707) Journal of Avian Biology 47 (3), 354-362, Citations: 22 <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/jav.00707" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
+**Cecilia Nilsson**, Sissel Sjöberg (2016) [Causes and characteristics of reverse bird migration: an analysis based on radar, radio tracking and ringing at Falsterbo, Sweden.](https://doi.org/10.1111/jav.00707) Journal of Avian Biology 47 (3), 354-362, Citations: 22 <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/jav.00707" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
      
 ## 2015  
 -----
   
-Jason W Chapman, **Cecilia Nilsson**, Ka S Lim, Johan Bäckman, Don R Reynolds, Thomas Alerstam, Andy M Reynolds (2015) Detection of flow direction in high-flying insect and songbird migrants. Current Biology 25 (17), R751-R752 | Citations: 21 | <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/ecog.04003" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
+Jason W Chapman, **Cecilia Nilsson**, Ka S Lim, Johan Bäckman, Don R Reynolds, Thomas Alerstam, Andy M Reynolds (2015) [Detection of flow direction in high-flying insect and songbird migrants.](https://doi.org/10.1016/j.cub.2015.07.074) Current Biology 25 (17), R751-R752, Citations: 21 <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.cub.2015.07.074" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
   
 Sissel Sjöberg, **Cecilia Nilsson** (2015) [Nocturnal migratory songbirds adjust their travelling direction aloft: evidence from a radiotelemetry and radar study.](https://doi.org/10.1098/rsbl.2015.0337) Biology letters 11 (6), 20150337, Citations: 14 <span data-badge-popover="right" data-badge-type="4" data-doi="10.1098/rsbl.2015.0337" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
   
@@ -71,7 +71,7 @@ Sissel Sjöberg, **Cecilia Nilsson** (2015) [Nocturnal migratory songbirds adjus
   
 Gintaras Malmiga, **Cecilia Nilsson**, Johan Bäckman, Thomas Alerstam (2014) [Interspecific comparison of the flight performance between sparrowhawks and common buzzards migrating at the Falsterbo peninsula: A radar study.](https://doi.org/10.1093/czoolo/60.5.670) Current Zoology 60 (5), 670-679, Citations: 17 <span data-badge-popover="right" data-badge-type="4" data-doi="10.1093/czoolo/60.5.670" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
   
-**Cecilia Nilsson**, Johan Bäckman, Thomas Alerstam (2014) [Are flight paths of nocturnal songbird migrants influenced by local coastlines at a peninsula?](https://doi.org/10.1093/czoolo/60.5.660) Current Zoology 60 (5), 660-669 | Citations: 14 | <span data-badge-popover="right" data-badge-type="4" data-doi="10.1093/czoolo/60.5.660" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
+**Cecilia Nilsson**, Johan Bäckman, Thomas Alerstam (2014) [Are flight paths of nocturnal songbird migrants influenced by local coastlines at a peninsula?](https://doi.org/10.1093/czoolo/60.5.660) Current Zoology 60 (5), 660-669, Citations: 14 <span data-badge-popover="right" data-badge-type="4" data-doi="10.1093/czoolo/60.5.660" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></span>
      
 ## 2013  
 -----
