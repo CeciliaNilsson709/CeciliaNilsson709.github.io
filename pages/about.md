@@ -1,5 +1,5 @@
 ---
-title: Cecilia Nilsson
+title: About me
 description: 
 background: /assets/mobile_radar_renovation.jpg
 permalink: /about/
@@ -12,4 +12,5 @@ After receiving my PhD I did a 1-year postdoc at Vogelvarte Sempach in Switzerla
 In 2017 I was awarded a Edward W. Rose Postdoctoral Fellowship and spent 2 years at the Cornell Lab of Ornithology, Cornell University, USA. There I extracted and analyzed bird movement data from the US weather radar network, NEXRAD, and investigated continental scale patterns of bird migration and flight behavior.
 
 Currently I am working as a Marie Skłodowska-Curie post doc fellow at the Center for Macroecology and Evolution at the University of Copenhagen.
-  
+
+I am part of the [GloBAM](https://globam.science) international network,see also [ENRAM](http://www.enram.eu), working on improving the quality and access of weather radar data for biological research. 
