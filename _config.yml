@@ -1,6 +1,6 @@
 
 # SITE SETTINGS
-title: Cecilia Nilsson 0000-0001-8957-4411 # Title in top navigation bar (navbar) and <head>
+title: Cecilia Nilsson # Title in top navigation bar (navbar) and <head>
 description: "Cecilia Nilsson's personal research page" # Site description in <head>
 author: Cecilia Nilsson                  # Used for copyright statement in footer
 # url: "https://cnilsson.science"  # No slash at the end
@@ -21,8 +21,8 @@ archive_permalink: /blog/               # Permalink of page using archive.html l
 logo: /assets/cecilia-nilsson.png       # Logo in navbar, will be displayed with 30px height
 colors:
   links: "#78a04b"                      # Color for links: use a readable color that contrasts well with dark text
-  banner: "#78a04b"                     # Background color for page banners: use color that contrasts well with white
-  footer: "#78a04b"                     # Background color for footer: use color that contrasts well with white
+  banner: "45553D"                     # Background color for page banners: use color that contrasts well with white
+  footer: "45553D"                     # Background color for footer: use color that contrasts well with white
 rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
 
 # BUILD SETTINGS
