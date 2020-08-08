@@ -13,4 +13,4 @@ In 2017 I was awarded a Edward W. Rose Postdoctoral Fellowship and spent 2 years
 
 Currently I am working as a Marie Skłodowska-Curie post doc fellow at the Center for Macroecology and Evolution at the University of Copenhagen.
 
-I am part of the [GloBAM](https://globam.science) international network,see also [ENRAM](http://www.enram.eu), working on improving the quality and access of weather radar data for biological research. 
+I am part of the [GloBAM](https://globam.science) international network (see also [ENRAM](http://www.enram.eu)), working on improving the quality and access of weather radar data for biological research. 
