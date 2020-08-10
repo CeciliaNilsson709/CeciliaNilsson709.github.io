@@ -2,7 +2,7 @@
 layout: home
 title: Cecilia Nilsson
 description: Movement Ecology, Flight Behavior & Radar Aeroecology
-background: /assets/radar.jpg
+background: /assets/AHP14-6516_d4__c_AronH.jpg
 permalink: /
 ---
 
