@@ -20,9 +20,9 @@ tweets_on_home: true                    # Show Twitter feed of twitter_username 
 archive_permalink: /blog/               # Permalink of page using archive.html layout, required when using post categories
 logo: /assets/cecilia-nilsson.png       # Logo in navbar, will be displayed with 30px height
 colors:
-  links: "#78a04b"                      # Color for links: use a readable color that contrasts well with dark text
-  banner: "#747923"                     # Background color for page banners: use color that contrasts well with white
-  footer: "#747923"                     # Background color for footer: use color that contrasts well with white
+  links: "#644724"                      # Color for links: use a readable color that contrasts well with dark text
+  banner: "#737F59"                     # Background color for page banners: use color that contrasts well with white
+  footer: "#737F59"                     # Background color for footer: use color that contrasts well with white
 rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
 
 # BUILD SETTINGS
