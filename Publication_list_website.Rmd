@@ -26,7 +26,8 @@ permalink: /publications/
   
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>  
   
-<br>**No access? Don't hesitate to contact me so I can send you a PDF!**  
+*Feel free to* <a href = "mailto:cecilia.nilsson709@gmail.com?subject=Paper%20request"> *email me* </a> *for a PDF copy of any of my articles*
+
   
 
 ```{r readme, eval=FALSE}
@@ -290,7 +291,8 @@ title <-paste0("### **", Author$name[1], "**, ", Author$affiliation[1], "  <br><
   
 `r final`  
   
-<br><br>*Citations and publications from Google scholar, updated `r date`.*
+<br>*Citations and publications from Google scholar, updated `r date`.*
 
-<br><br>**No access? Don't hesitate thesitate to contact me so I can send you a PDF!**
+<br>*Feel free to* <a href = "mailto:cecilia.nilsson709@gmail.com?subject=Paper%20request"> *email me* </a> *for a PDF copy of any of my articles*
+
 

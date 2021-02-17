@@ -6,7 +6,10 @@ permalink: /publications/
 ---
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-<br>**No access? Don’t hesitate to contact me so I can send you a PDF!**
+
+*Feel free to*
+<a href = "mailto:cecilia.nilsson709@gmail.com?subject=Paper%20request">
+*email me* </a> *for a PDF copy of any of my articles*
 
 **Cecilia Nilsson**, Adriaan M Dokter, Liesbeth Verlinden, Judy
 Shamoun‐Baranes, Baptiste Schmid, Peter Desmet, Silke Bauer, Jason
@@ -191,8 +194,9 @@ Citations: 16 <span class="altmetric-embed" data-badge-popover="right"
 data-badge-type="4" data-doi="NA" data-hide-no-mentions="true"
 data-hide-less-than="10"></span>
 
-<br><br>*Citations and publications from Google scholar, updated
-2020-08-13.*
+<br>*Citations and publications from Google scholar, updated
+2021-02-17.*
 
-<br><br>**No access? Don’t hesitate thesitate to contact me so I can
-send you a PDF!**
+<br>*Feel free to*
+<a href = "mailto:cecilia.nilsson709@gmail.com?subject=Paper%20request">
+*email me* </a> *for a PDF copy of any of my articles*
