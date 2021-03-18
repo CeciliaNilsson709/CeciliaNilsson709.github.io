@@ -1,7 +1,7 @@
 ---  
 title: Publications  
 description:  
-background: /assets/IMG\_4697.JPG  
+background: /assets/IMG_4697.JPG  
 permalink: /publications/  
 ---
 
@@ -16,7 +16,7 @@ permalink: /publications/
 Shamoun-Baranes, Baptiste Schmid, Peter Desmet, Silke Bauer, Jason
 Chapman, Jose A Alves, Phillip M Stepanian, Nir Sapir, Charlotte
 Wainwright, Mathieu Boos, Anna Gorska, Myles HM Menz, Pedro Rodrigues,
-Hidde Leijnse, Pavel Zehtindjiev, Robin Brabant, G?nther Haase, Nadja
+Hidde Leijnse, Pavel Zehtindjiev, Robin Brabant, Günther Haase, Nadja
 Weisshaupt, Michal Ciach, Felix Liechti (2019) [Revealing patterns of
 nocturnal migration using the European weather radar
 network.](http://dx.doi.org/10.1111/ecog.04003) Ecography 42 (5),
