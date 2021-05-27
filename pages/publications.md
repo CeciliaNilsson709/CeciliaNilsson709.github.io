@@ -1,7 +1,7 @@
 ---  
 title: Publications  
 description:  
-background: /assets/IMG\_4697.JPG  
+background: /assets/IMG_4697.JPG  
 permalink: /publications/  
 ---
 
@@ -11,6 +11,7 @@ permalink: /publications/
 <a href = "mailto:cecilia.nilsson709@gmail.com?subject=Paper%20request">
 *email me* </a> *for a PDF copy of any of my articles*
 
+<<<<<<< HEAD
 Judy Shamoun-Baranes, Silke Bauer, Jason W Chapman, Peter Desmet,
 Adriaan M Dokter, Andrew Farnsworth, Birgen Haest, Jarmo Koistinen, Bart
 Kranstauber, Felix Liechti, Tom HE Mason, **Cecilia Nilsson**, Raphael
@@ -29,6 +30,17 @@ Günther Haase, Nadja Weisshaupt, Micha? Ciach, Felix Liechti (2019)
 [Revealing patterns of nocturnal migration using the European weather
 radar network.](http://dx.doi.org/10.1111/ecog.04003) Ecography 42 (5),
 876-886, Citations: 39 <span class="altmetric-embed"
+=======
+**Cecilia Nilsson**, Adriaan M Dokter, Liesbeth Verlinden, Judy
+Shamoun-Baranes, Baptiste Schmid, Peter Desmet, Silke Bauer, Jason
+Chapman, Jose A Alves, Phillip M Stepanian, Nir Sapir, Charlotte
+Wainwright, Mathieu Boos, Anna Gorska, Myles HM Menz, Pedro Rodrigues,
+Hidde Leijnse, Pavel Zehtindjiev, Robin Brabant, GÃ¼nther Haase, Nadja
+Weisshaupt, Michal Ciach, Felix Liechti (2019) [Revealing patterns of
+nocturnal migration using the European weather radar
+network.](http://dx.doi.org/10.1111/ecog.04003) Ecography 42 (5),
+876-886, Citations: 24 <span class="altmetric-embed"
+>>>>>>> 1116d5626278f154b92a555fee0ba3a96199c297
 data-badge-popover="right" data-badge-type="4"
 data-doi="10.1111/ecog.04003" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> Silke Bauer, Judy
