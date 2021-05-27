@@ -76,14 +76,15 @@ DOI <- c("10.1098/rsbl.2018.0485",
          "10.1098/rspb.2011.0058",
          "10.1016/j.anbehav.2011.10.009",
          "10.1111/j.1474-919X.2011.01130.x",
-         "10.1007/s00265-010-1015-z"
+         "10.1007/s00265-010-1015-z",
+         "10.1126/science.abi4680"
          )
 
 
 ```
 
 
-```{r pubs, include=FALSE, eval=FALSE}
+```{r pubs, include=FALSE}
 
 # extract author profile
 Author<-get_profile(AU)
@@ -117,8 +118,8 @@ pub_list$author<-sub("\xc5", "Å", pub_list$author)
 
 ```{r}
 
-pub_list<-read.csv("save.csv")
-load("Author.R")
+#pub_list<-read.csv("save.csv")
+#load("Author.R")
 
 ```
 
