@@ -135,7 +135,7 @@ study.](http://dx.doi.org/10.1098/rsbl.2015.0337) Biology letters 11
 (6), 20150337, Citations: 14 <span class="altmetric-embed"
 data-badge-popover="right" data-badge-type="4"
 data-doi="10.1098/rsbl.2015.0337" data-hide-no-mentions="true"
-data-hide-less-than="10"></span> <br><br> **C Nilsson**, J Bäckman, Håk
+data-hide-less-than="10"></span> <br><br> **C Nilsson**, J Bäckman, H
 Karlsson, T Alerstam (2015) [Timing of nocturnal passerine migration in
 Arctic light conditions.](http://dx.doi.org/10.1007/s00300-015-1708-x)
 Polar Biology 38 (9), 1453-1459, Citations: 9 <span
@@ -170,7 +170,7 @@ American Naturalist 181 (6), 837-845, Citations: 276 <span
 class="altmetric-embed" data-badge-popover="right" data-badge-type="4"
 data-doi="10.1086/670335" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> T Alerstam, JW Chapman, J
-Bäckman, AD Smith, Håk Karlsson, **C Nilsson**, DR Reynolds, RHG Klaassen,
+Bäckman, AD Smith, H Karlsson, **C Nilsson**, DR Reynolds, RHG Klaassen,
 JK Hill (2011) [Convergent patterns of long-distance nocturnal migration
 in noctuid moths and passerine
 birds.](http://dx.doi.org/10.1098/rspb.2011.0058) Proceedings of the
@@ -178,19 +178,19 @@ Royal Society B: Biological Sciences 278 (1721), 3074-3080, Citations:
 118 <span class="altmetric-embed" data-badge-popover="right"
 data-badge-type="4" data-doi="10.1098/rspb.2011.0058"
 data-hide-no-mentions="true" data-hide-less-than="10"></span> <br><br>
-Håk Karlsson, **C Nilsson**, J Bäckman, T Alerstam (2011) [Nocturnal
+H Karlsson, **C Nilsson**, J Bäckman, T Alerstam (2011) [Nocturnal
 passerine migrants fly faster in spring than in autumn: a test of the
 time minimization hypothesis.](NA) Animal Behaviour 83 (1), 87-93,
 Citations: 52 <span class="altmetric-embed" data-badge-popover="right"
 data-badge-type="4" data-doi="NA" data-hide-no-mentions="true"
-data-hide-less-than="10"></span> <br><br> Håk Karlsson, **C Nilsson**, J
+data-hide-less-than="10"></span> <br><br> H Karlsson, **C Nilsson**, J
 Bäckman, T Alerstam (2011) [Nocturnal passerine migration without
 tailwind
 assistance.](http://dx.doi.org/10.1111/j.1474-919x.2011.01130.x) Ibis
 153 (3), 485-493, Citations: 44 <span class="altmetric-embed"
 data-badge-popover="right" data-badge-type="4"
 data-doi="10.1111/j.1474-919x.2011.01130.x" data-hide-no-mentions="true"
-data-hide-less-than="10"></span> <br><br> Håk Karlsson, J Bäckman, C
+data-hide-less-than="10"></span> <br><br> H Karlsson, J Bäckman, C
 Nilsson, T Alerstam (2010) [Exaggerated orientation scatter of nocturnal
 passerine migrants close to breeding grounds: comparisons between
 seasons and latitudes.](NA) Behavioral ecology and sociobiology 64 (12),
