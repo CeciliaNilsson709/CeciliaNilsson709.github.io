@@ -14,3 +14,5 @@ In 2017 I was awarded a Edward W. Rose Postdoctoral Fellowship and spent 2 years
 Currently I am working as a Marie Skłodowska-Curie post doc fellow at the Center for Macroecology and Evolution at the University of Copenhagen. My current work includes large scale differences between migration systems, bird movements in extreme conditions, and what happens when birds and humans share aerial habitat.
 
 I am part of the [GloBAM](https://globam.science) international network (see also [ENRAM](http://www.enram.eu)), working on improving the quality and access of weather radar data for biological research. 
+
+My research is funded through the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement MigrationRadar No 844360.
