@@ -1,11 +1,11 @@
 ---
-title: Press
-description: Selected press clips
-background: /assets/mobile_radar_renovation.jpg
+title: Selected press clips
+description: 
+background: /assets/johanbackman.jpg
 permalink: /press/
 ---
   
-Selected press clips featuring different parts of my research:
+Some selected press clips featuring different parts of my research:
   
 Audubon Magazine:[A New Golden Age of Observation Is Revealing the Wonders of Night Migration](https://www.audubon.org/node/366450), 2021
   
