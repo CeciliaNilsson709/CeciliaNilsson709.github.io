@@ -4,7 +4,8 @@ description:
 background: /assets/D-M0f0NU8AANvp7.jpg
 permalink: /talks/
 ---
-**Upcomming talks**   
+###**Upcomming talks** 
+  
 Odense, Denmark, 29 October 2021:  
 DOF’s Videnskabelige udvalgs Fuglefaglige symposium
   
@@ -15,6 +16,7 @@ Durban, South Africa, 14 – 20 August 2022:
 28th International Ornithological Congress
   
 **Selected previous academic talks**  
+  
 **Cecilia Nilsson**, Frank La Sorte, Kyle Horton, Adriaan Dokter, Benjamin Van Doren, Jeff Kolodzinksi, Judy Shamoun-Baranes & Andrew Farnsworth. Data from eBird and weather radar explain patterns of bird strikes at three airports in the US. North American Ornithological Conference, Virtual meeting, 2020.
 
 **Cecilia Nilsson**, Frank La Sorte, Kyle Horton, Adriaan Dokter, Benjamin Van Doren, Jeff Kolodzinksi & Andrew Farnsworth. Using radar and citizen-science data to understand bird strikes at NYC. Invited keynote at Second International Radar Aeroecology Conference, Zhengzou, China, 2019.  
