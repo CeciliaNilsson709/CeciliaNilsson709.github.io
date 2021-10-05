@@ -5,7 +5,7 @@ background: /assets/JohanBackman.jpg
 permalink: /press/
 ---
   
-**Some selected press clips featuring different parts of my research:**
+**Some selected press clippings featuring different parts of my research:**
   
 Audubon Magazine: [A New Golden Age of Observation Is Revealing the Wonders of Night Migration](https://www.audubon.org/node/366450), 2021
   
