@@ -5,9 +5,9 @@ background: /assets/JohanBackman.jpg
 permalink: /press/
 ---
   
-Some selected press clips featuring different parts of my research:
+**Some selected press clips featuring different parts of my research:**
   
-Audubon Magazine:[A New Golden Age of Observation Is Revealing the Wonders of Night Migration](https://www.audubon.org/node/366450), 2021
+Audubon Magazine: [A New Golden Age of Observation Is Revealing the Wonders of Night Migration](https://www.audubon.org/node/366450), 2021
   
 The New York Times Magazine: [The Mysterious Life of Birds Who Never Come Down ](https://www.nytimes.com/2020/07/29/magazine/vesper-flights.html), 2020  
   
