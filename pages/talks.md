@@ -15,6 +15,7 @@ Online, 25-26 November 2021:
 Durban, South Africa, 14 – 20 August 2022:  
 *28th International Ornithological Congress*
   
+  
 **Selected previous academic talks**  
   
 **Cecilia Nilsson**, Frank La Sorte, Kyle Horton, Adriaan Dokter, Benjamin Van Doren, Jeff Kolodzinksi, Judy Shamoun-Baranes & Andrew Farnsworth. *Data from eBird and weather radar explain patterns of bird strikes at three airports in the US.* North American Ornithological Conference, Virtual meeting, 2020.
@@ -42,6 +43,7 @@ Durban, South Africa, 14 – 20 August 2022:
 **Cecilia Nilsson**, & Sissel Sjöberg. *Juvenile passerines more likely to perform reverse migration.* Talk at European Ornithologists Union 2015 Conference. Badajoz, Spain, 2015.   
   
 **Cecilia Nilsson**, Johan Bäckman & Thomas Alerstam.* Radar Studies of Flight Speed and Migration Patterns of Nocturnal Passerine Migrants in Relation to Light and Topography.* Talk at 26th International ornithological Congress. Tokyo, Japan, 2014.  
+  
   
 **Previous science outreach lectures**  
 
