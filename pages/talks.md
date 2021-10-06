@@ -4,7 +4,7 @@ description:
 background: /assets/D-M0f0NU8AANvp7.jpg
 permalink: /talks/
 ---
-**Upcomming talks** 
+### **Upcoming talks** 
   
 Odense, Denmark, 29 October 2021:  
 *DOF’s Videnskabelige udvalgs Fuglefaglige symposium*
@@ -17,7 +17,7 @@ Durban, South Africa, 14 – 20 August 2022:
   
   
   
-**Selected previous academic talks**  
+### **Selected previous academic talks**  
   
 **Cecilia Nilsson**, Frank La Sorte, Kyle Horton, Adriaan Dokter, Benjamin Van Doren, Jeff Kolodzinksi, Judy Shamoun-Baranes & Andrew Farnsworth. *Data from eBird and weather radar explain patterns of bird strikes at three airports in the US.* North American Ornithological Conference, Virtual meeting, 2020.
 
@@ -47,10 +47,9 @@ Durban, South Africa, 14 – 20 August 2022:
   
   
   
-**Previous science outreach lectures**  
+### **Previous science outreach lectures**  
 
-**Cecilia Nilsson**, Kyle Horton, Adriaan Dokter. *Dark Ecology – Studying night time bird migration with
-radar.* Public lecture in The Lab of Ornithology’s Monday Night Seminar series, Ithaca, USA, 2018 
+**Cecilia Nilsson**, Kyle Horton, Adriaan Dokter. *Dark Ecology- Studying night time bird migration with radar.* Public lecture in The Lab of Ornithology’s Monday Night Seminar series, Ithaca, USA, 2018 
   
 **Cecilia Nilsson**. *Dark Flights- Investigating flight behavior of nocturnal migrants.* Public lecture at Cornell University’s Ornithology seminar series, Ithaca, USA, 2017  
   
