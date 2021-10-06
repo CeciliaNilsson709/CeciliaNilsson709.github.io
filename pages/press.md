@@ -1,5 +1,5 @@
 ---
-title: Selected press clips
+title: Press
 description: 
 background: /assets/JohanBackman.jpg
 permalink: /press/
