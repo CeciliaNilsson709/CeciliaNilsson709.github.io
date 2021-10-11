@@ -20,7 +20,9 @@ Durban, South Africa, 14 – 20 August 2022:
 ### **Selected previous academic talks**  
   
 **Cecilia Nilsson**, Frank La Sorte, Kyle Horton, Adriaan Dokter, Benjamin Van Doren, Jeff Kolodzinksi, Judy Shamoun-Baranes & Andrew Farnsworth. *Data from eBird and weather radar explain patterns of bird strikes at three airports in the US.* North American Ornithological Conference, Virtual meeting, 2020.
-
+  
+**Cecilia Nilsson.** *Radar data reveals bird flight behavior on local to continental scales.* Invited talk in EEMIS seminar series at Linnaeus University, Kalmar, Sweden, 2019.  
+  
 **Cecilia Nilsson**, Frank La Sorte, Kyle Horton, Adriaan Dokter, Benjamin Van Doren, Jeff Kolodzinksi & Andrew Farnsworth. *Using radar and citizen-science data to understand bird strikes at NYC.* Invited keynote at Second International Radar Aeroecology Conference, Zhengzou, China, 2019.  
   
 **Cecilia Nilsson**, Adriaan Dokter, Kyle Horton, Baptiste Schmid, Jennifer Krauel, Gary F. McCracken, Felix Liechti & Andrew Farnsworth. *Insect Validation And Diurnal Targets On The Us Weather Radar Network.*  Invited talk at International Forum on New Technologies and Applications of Insect Radar at the Beijing Institute of Technology, Beijing, China 2019.  
