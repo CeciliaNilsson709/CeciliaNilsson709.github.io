@@ -1,11 +1,11 @@
 ---
-title: Press
+title: Media Coverage
 description: 
 background: /assets/JohanBackman.jpg
 permalink: /press/
 ---
   
-**Some selected press clippings featuring different parts of my research:**
+**Some selected media stories covering different parts of my research:**
   
 Audubon Magazine: [A New Golden Age of Observation Is Revealing the Wonders of Night Migration](https://www.audubon.org/node/366450), 2021
   
