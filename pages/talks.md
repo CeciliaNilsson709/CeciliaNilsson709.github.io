@@ -18,6 +18,8 @@ Durban, South Africa, 14 – 20 August 2022:
   
   
 ### **Selected previous academic talks**  
+   
+**Cecilia Nilsson**. Using weather radar data for large scale monitoring of bird movements. Invited talk at the Norwegian Meteorological Institute’s Radar Day 2021, Virtual meeting, 2021.  
   
 **Cecilia Nilsson**, Frank La Sorte, Kyle Horton, Adriaan Dokter, Benjamin Van Doren, Jeff Kolodzinksi, Judy Shamoun-Baranes & Andrew Farnsworth. *Data from eBird and weather radar explain patterns of bird strikes at three airports in the US.* North American Ornithological Conference, Virtual meeting, 2020.
   
