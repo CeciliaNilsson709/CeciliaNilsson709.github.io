@@ -6,15 +6,9 @@ permalink: /talks/
 ---
 ### **Upcoming talks** 
   
-Odense, Denmark, 29 October 2021:  
-*DOF’s Videnskabelige udvalgs Fuglefaglige symposium*
-  
-Online, 25-26 November 2021:  
-[Young Researchers Symposium](https://www.sfb1372.de/young-researchers-symposium)
   
 Durban, South Africa, 14 – 20 August 2022:  
 *28th International Ornithological Congress*
-  
   
   
 ### **Selected previous academic talks**  
