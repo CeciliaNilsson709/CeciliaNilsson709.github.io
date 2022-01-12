@@ -11,28 +11,22 @@ permalink: /publications/
 <a href = "mailto:cecilia.nilsson709@gmail.com?subject=Paper%20request">
 *email me* </a> *for a PDF copy of any of my articles*
 
-C Nilsson, FAL Sorte, A Dokter, K Horton, BMV Doren, JJ Kolodzinski, J
-Shamoun‐Baranes, A Farnsworth (2021) [Bird strikes at commercial
-airports explained by citizen science and weather radar
+J Shamoun-Baranes, S Bauer, JW Chapman, P Desmet, AM Dokter, A
+Farnsworth, B Haest, J Koistinen, B Kranstauber, F Liechti, THE Mason, C
+Nilsson, R Nussbaumer, B Schmid, N Weisshaupt, H Leijnse (2021) [Weather
+radars’ role in biodiversity
+monitoring.](http://dx.doi.org/10.1126/science.abi4680) Science 372
+(6539), 248-248, Citations: 1 <span class="altmetric-embed"
+data-badge-popover="right" data-badge-type="4"
+data-doi="10.1126/science.abi4680" data-hide-no-mentions="true"
+data-hide-less-than="10"></span> <br><br> C Nilsson, FAL Sorte, A
+Dokter, K Horton, BMV Doren, JJ Kolodzinski, J Shamoun‐Baranes, A
+Farnsworth (2021) [Bird strikes at commercial airports explained by
+citizen science and weather radar
 data.](http://dx.doi.org/10.1111/1365-2664.13971) Journal of Applied
 Ecology 58 (10), 2029-2039, Citations: 0 <span class="altmetric-embed"
 data-badge-popover="right" data-badge-type="4"
 data-doi="10.1111/1365-2664.13971" data-hide-no-mentions="true"
-data-hide-less-than="10"></span> <br><br> J Shamoun-Baranes, S Bauer, JW
-Chapman, P Desmet, AM Dokter, A Farnsworth, B Haest, J Koistinen, B
-Kranstauber, F Liechti, THE Mason, C Nilsson, R Nussbaumer, B Schmid, N
-Weisshaupt, H Leijnse (2021) [Weather radars’ role in biodiversity
-monitoring.](http://dx.doi.org/10.1126/science.abi4680) Science 372
-(6539), 248-248, Citations: 0 <span class="altmetric-embed"
-data-badge-popover="right" data-badge-type="4"
-data-doi="10.1126/science.abi4680" data-hide-no-mentions="true"
-data-hide-less-than="10"></span> <br><br> KG Horton, C Nilsson, BMV
-Doren, FAL Sorte, AM Dokter, A Farnsworth (2019) [Bright lights in the
-big cities: migratory birds’ exposure to artificial
-light.](http://dx.doi.org/10.1002/fee.2029) Frontiers in Ecology and the
-Environment 17 (4), 209-214, Citations: 50 <span class="altmetric-embed"
-data-badge-popover="right" data-badge-type="4"
-data-doi="10.1002/fee.2029" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> C Nilsson, AM Dokter, L
 Verlinden, J Shamoun‐Baranes, B Schmid, P Desmet, S Bauer, J Chapman, JA
 Alves, PM Stepanian, N Sapir, C Wainwright, M Boos, A Górska, MHM Menz,
@@ -40,15 +34,22 @@ P Rodrigues, H Leijnse, P Zehtindjiev, R Brabant, Gün Haase, N
 Weisshaupt, Mł Ciach, F Liechti (2019) [Revealing patterns of nocturnal
 migration using the European weather radar
 network.](http://dx.doi.org/10.1111/ecog.04003) Ecography 42 (5),
-876-886, Citations: 49 <span class="altmetric-embed"
+876-886, Citations: 50 <span class="altmetric-embed"
 data-badge-popover="right" data-badge-type="4"
 data-doi="10.1111/ecog.04003" data-hide-no-mentions="true"
+data-hide-less-than="10"></span> <br><br> KG Horton, C Nilsson, BMV
+Doren, FAL Sorte, AM Dokter, A Farnsworth (2019) [Bright lights in the
+big cities: migratory birds’ exposure to artificial
+light.](http://dx.doi.org/10.1002/fee.2029) Frontiers in Ecology and the
+Environment 17 (4), 209-214, Citations: 50 <span class="altmetric-embed"
+data-badge-popover="right" data-badge-type="4"
+data-doi="10.1002/fee.2029" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> S Bauer, J Shamoun‐Baranes, C
 Nilsson, A Farnsworth, JF Kelly, DR Reynolds, AM Dokter, JF Krauel, LB
 Petterson, KG Horton, JW Chapman (2019) [The grand challenges of
 migration ecology that radar aeroecology can help
 answer.](http://dx.doi.org/10.1111/ecog.04083) Ecography 42 (5),
-861-875, Citations: 42 <span class="altmetric-embed"
+861-875, Citations: 43 <span class="altmetric-embed"
 data-badge-popover="right" data-badge-type="4"
 data-doi="10.1111/ecog.04083" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> T‐Y Lin, K Winner, G
@@ -56,14 +57,14 @@ Bernstein, A Mittal, AM Dokter, KG Horton, C Nilsson, BMV Doren, A
 Farnsworth, FAL Sorte, S Maji, D Sheldon (2019) [MistNet: Measuring
 historical bird migration in the US using archived weather radar data
 and convolutional neural networks.](NA) Methods in Ecology and Evolution
-10 (11), 1908-1922, Citations: 29 <span class="altmetric-embed"
+10 (11), 1908-1922, Citations: 33 <span class="altmetric-embed"
 data-badge-popover="right" data-badge-type="4" data-doi="NA"
 data-hide-no-mentions="true" data-hide-less-than="10"></span> <br><br>
 AM Dokter, P Desmet, JH Spaaks, Sv Hoey, L Veen, L Verlinden, C Nilsson,
 Gün Haase, H Leijnse, A Farnsworth, W Bouten, J Shamoun‐Baranes (2019)
 [bioRad: biological analysis and visualization of weather radar
 data.](http://dx.doi.org/10.1111/ecog.04028) Ecography 42 (5), 852-860,
-Citations: 29 <span class="altmetric-embed" data-badge-popover="right"
+Citations: 32 <span class="altmetric-embed" data-badge-popover="right"
 data-badge-type="4" data-doi="10.1111/ecog.04028"
 data-hide-no-mentions="true" data-hide-less-than="10"></span> <br><br>
 FAL Sorte, KG Horton, C Nilsson, AM Dokter (2019) [Projected changes in
@@ -83,7 +84,7 @@ Lin, K Winner, G Bernstein, S Maji, D Sheldon, A Farnsworth, KG Horton
 (2019) [Migratory flight on the Pacific Flyway: strategies and
 tendencies of wind drift
 compensation.](http://dx.doi.org/10.1098/rsbl.2019.0383) Biology letters
-15 (9), 20190383, Citations: 3 <span class="altmetric-embed"
+15 (9), 20190383, Citations: 5 <span class="altmetric-embed"
 data-badge-popover="right" data-badge-type="4"
 data-doi="10.1098/rsbl.2019.0383" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> C Nilsson, J Bäckman, AM
@@ -97,7 +98,7 @@ Schmid, M Scacco, L Verlinden, J Bäckman, Gün Haase, G Dell’Omo, JW
 Chapman, H Leijnse, F Liechti (2018) [Field validation of radar systems
 for monitoring bird
 migration.](http://dx.doi.org/10.1111/1365-2664.13174) Journal of
-Applied Ecology 55 (6), 2552-2564, Citations: 38 <span
+Applied Ecology 55 (6), 2552-2564, Citations: 40 <span
 class="altmetric-embed" data-badge-popover="right" data-badge-type="4"
 data-doi="10.1111/1365-2664.13174" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> C Nilsson, KG Horton, AM
@@ -148,13 +149,13 @@ data-hide-less-than="10"></span> <br><br> C Nilsson, J Bäckman, T
 Alerstam (2014) [Seasonal modulation of flight speed among nocturnal
 passerine migrants: differences between short-and long-distance
 migrants.](NA) Behavioral Ecology and Sociobiology 68 (11), 1799-1807,
-Citations: 49 <span class="altmetric-embed" data-badge-popover="right"
+Citations: 50 <span class="altmetric-embed" data-badge-popover="right"
 data-badge-type="4" data-doi="NA" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> G Malmiga, C Nilsson, J
 Bäckman, T Alerstam (2014) [Interspecific comparison of the flight
 performance between sparrowhawks and common buzzards migrating at the
 Falsterbo peninsula: A radar study.](NA) Current Zoology 60 (5),
-670-679, Citations: 20 <span class="altmetric-embed"
+670-679, Citations: 21 <span class="altmetric-embed"
 data-badge-popover="right" data-badge-type="4" data-doi="NA"
 data-hide-no-mentions="true" data-hide-less-than="10"></span> <br><br> C
 Nilsson, J Bäckman, T Alerstam (2014) [Are flight paths of nocturnal
@@ -165,7 +166,7 @@ data-doi="NA" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> C Nilsson, RHG Klaassen, T
 Alerstam (2013) [Differences in speed and duration of bird migration
 between spring and autumn.](http://dx.doi.org/10.1086/670335) The
-American Naturalist 181 (6), 837-845, Citations: 292 <span
+American Naturalist 181 (6), 837-845, Citations: 307 <span
 class="altmetric-embed" data-badge-popover="right" data-badge-type="4"
 data-doi="10.1086/670335" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> T Alerstam, JW Chapman, J
@@ -174,7 +175,7 @@ JK Hill (2011) [Convergent patterns of long-distance nocturnal migration
 in noctuid moths and passerine
 birds.](http://dx.doi.org/10.1098/rspb.2011.0058) Proceedings of the
 Royal Society B: Biological Sciences 278 (1721), 3074-3080, Citations:
-119 <span class="altmetric-embed" data-badge-popover="right"
+120 <span class="altmetric-embed" data-badge-popover="right"
 data-badge-type="4" data-doi="10.1098/rspb.2011.0058"
 data-hide-no-mentions="true" data-hide-less-than="10"></span> <br><br>
 Håk Karlsson, C Nilsson, J Bäckman, T Alerstam (2011) [Nocturnal
@@ -198,7 +199,7 @@ data-badge-popover="right" data-badge-type="4" data-doi="NA"
 data-hide-no-mentions="true" data-hide-less-than="10"></span>
 
 <br>*Citations and publications from Google scholar, updated
-2021-11-21.*
+2022-01-12.*
 
 <br>*Feel free to*
 <a href = "mailto:cecilia.nilsson709@gmail.com?subject=Paper%20request">
