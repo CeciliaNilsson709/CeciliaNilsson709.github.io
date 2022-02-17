@@ -98,7 +98,7 @@ pub_list <-get_publications(AU)
 # NOTE THIS PART GETS BLOCKED IF RERUN...
 pub_list%>%
   rowwise() %>% 
-  mutate(author=get_complete_authors(AU, pubid))->pub_list
+  mutate(author=get_complete_authors(AU, pubid, initials = FALSE))->pub_list
 
 # The full authorlist comes with mixed encodings of special characters. 
 # We want it to be in UTF-8, so we set it to UTF-8 and then search and replace 
