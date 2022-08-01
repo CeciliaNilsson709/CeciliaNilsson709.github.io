@@ -6,11 +6,12 @@ permalink: /talks/
 toc: true
 ---
 
-### Upcoming talks 
+### Upcoming talks  
   
   
 Online, 14 – 20 August 2022:  
 [*28th International Ornithological Congress*](https://iocongress2022.com)
+  
   
   
 ### Selected previous academic talks 
