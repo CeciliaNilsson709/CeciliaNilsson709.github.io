@@ -3,17 +3,17 @@ title: Talks
 description: 
 background: /assets/D-M0f0NU8AANvp7.jpg
 permalink: /talks/
-toc: True
+toc: true
 ---
 
-### **Upcoming talks** 
+### Upcoming talks 
   
   
 Online, 14 – 20 August 2022:  
 [*28th International Ornithological Congress*](https://iocongress2022.com)
   
   
-### **Selected previous academic talks**  
+### Selected previous academic talks 
    
 **Cecilia Nilsson**. Using weather radar data for large scale monitoring of bird movements. Invited talk at the Norwegian Meteorological Institute’s Radar Day 2021, Virtual meeting, 2021.  
   
@@ -47,7 +47,7 @@ Online, 14 – 20 August 2022:
   
   
   
-### **Previous science outreach lectures**  
+### Previous science outreach lectures 
 
 **Cecilia Nilsson**, Kyle Horton, Adriaan Dokter. *Dark Ecology- Studying night time bird migration with radar.* Public lecture in The Lab of Ornithology’s Monday Night Seminar series, Ithaca, USA, 2018 
   
