@@ -2,8 +2,8 @@
 title: Talks
 description: 
 background: /assets/D-M0f0NU8AANvp7.jpg
-permalink: /talks/
 toc: true
+permalink: /talks/
 ---
 ### **Upcoming talks** 
   
