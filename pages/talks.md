@@ -2,6 +2,7 @@
 title: Talks
 description: 
 background: /assets/D-M0f0NU8AANvp7.jpg
+toc: true
 permalink: /talks/
 ---
 ### **Upcoming talks** 
