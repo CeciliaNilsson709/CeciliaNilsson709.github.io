@@ -7,8 +7,8 @@ permalink: /talks/
 ### **Upcoming talks** 
   
   
-Durban, South Africa, 14 – 20 August 2022:  
-*28th International Ornithological Congress*
+Online, 14 – 20 August 2022:  
+[*28th International Ornithological Congress*](https://iocongress2022.com)
   
   
 ### **Selected previous academic talks**  
