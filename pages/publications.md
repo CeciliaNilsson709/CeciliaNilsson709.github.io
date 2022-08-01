@@ -8,7 +8,7 @@ permalink: /publications/
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 *Feel free to*
-<a href = "mailto:cecilia.nilsson709@gmail.com?subject=Paper%20request">
+<a href = "cecilia.nilsson@biol.lu.se?subject=Paper%20request">
 *email me* </a> *for a PDF copy of any of my articles*
 
 Judy Shamoun-Baranes, Silke Bauer, Jason W Chapman, Peter Desmet,
@@ -228,5 +228,5 @@ data-hide-less-than="10"></span>
 2022-08-01.*
 
 <br>*Feel free to*
-<a href = "mailto:cecilia.nilsson709@gmail.com?subject=Paper%20request">
+<a href = "cecilia.nilsson@biol.lu.se?subject=Paper%20request">
 *email me* </a> *for a PDF copy of any of my articles*
