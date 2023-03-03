@@ -9,7 +9,7 @@ toc: true
 ### Upcoming talks  
   
   
-EOU Lund, 21 – 25 August 2023:  
+EOU Lund, Sweden, 21 – 25 August 2023:  
 Symposium [*Vertical space use of flying animals*](https://www.eou2023.event.lu.se/programme/symposia)
   
   
