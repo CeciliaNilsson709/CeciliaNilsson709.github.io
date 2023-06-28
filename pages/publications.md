@@ -11,23 +11,29 @@ permalink: /publications/
 <a href = "mailto:cecilia.nilsson@biol.lu.se?subject=Paper%20request">
 *email me* </a> *for a PDF copy of any of my articles*
 
-Judy Shamoun-Baranes, Silke Bauer, Jason W Chapman, Peter Desmet,
-Adriaan M Dokter, Andrew Farnsworth, Hans van Gasteren, Birgen Haest,
-Jarmo Koistinen, Bart Kranstauber, Felix Liechti, Tom HE Mason,
-**Cecilia Nilsson**, Raphael Nussbaumer, Baptiste Schmid, Nadja
-Weisshaupt, Hidde Leijnse (2022) [Meteorological data policies needed to
-support biodiversity monitoring with weather
-radar.](http://dx.doi.org/10.1175/bams-d-21-0196.1) Bulletin of the
-American Meteorological Society 103 (4), E1234-E1242, Citations: 2 <span
+Huan Xia, **Cecilia Nilsson**, Kasper Thorup, Chenxi Jia, Fumin Lei
+(2023) [Non-breeding movements of the Black-tailed Gull (Larus
+crassirostris).](NA) Avian Research 14, 100103, Citations: 0 <span
 class="altmetric-embed" data-badge-popover="right" data-badge-type="4"
-data-doi="10.1175/bams-d-21-0196.1" data-hide-no-mentions="true"
-data-hide-less-than="10"></span> <br><br> **Cecilia Nilsson**, Frank A
-La Sorte, Adriaan Dokter, Kyle Horton, Benjamin M Van Doren, Jeffrey J
-Kolodzinski, Judy Shamoun‐Baranes, Andrew Farnsworth (2021) [Bird
-strikes at commercial airports explained by citizen science and weather
-radar data.](http://dx.doi.org/10.1111/1365-2664.13971) Journal of
-Applied Ecology 58 (10), 2029-2039, Citations: 11 <span
-class="altmetric-embed" data-badge-popover="right" data-badge-type="4"
+data-doi="NA" data-hide-no-mentions="true"
+data-hide-less-than="10"></span> <br><br> Judy Shamoun-Baranes, Silke
+Bauer, Jason W Chapman, Peter Desmet, Adriaan M Dokter, Andrew
+Farnsworth, Hans van Gasteren, Birgen Haest, Jarmo Koistinen, Bart
+Kranstauber, Felix Liechti, Tom HE Mason, **Cecilia Nilsson**, Raphael
+Nussbaumer, Baptiste Schmid, Nadja Weisshaupt, Hidde Leijnse (2022)
+[Meteorological data policies needed to support biodiversity monitoring
+with weather radar.](http://dx.doi.org/10.1175/bams-d-21-0196.1)
+Bulletin of the American Meteorological Society 103 (4), E1234-E1242,
+Citations: 2 <span class="altmetric-embed" data-badge-popover="right"
+data-badge-type="4" data-doi="10.1175/bams-d-21-0196.1"
+data-hide-no-mentions="true" data-hide-less-than="10"></span> <br><br>
+**Cecilia Nilsson**, Frank A La Sorte, Adriaan Dokter, Kyle Horton,
+Benjamin M Van Doren, Jeffrey J Kolodzinski, Judy Shamoun‐Baranes,
+Andrew Farnsworth (2021) [Bird strikes at commercial airports explained
+by citizen science and weather radar
+data.](http://dx.doi.org/10.1111/1365-2664.13971) Journal of Applied
+Ecology 58 (10), 2029-2039, Citations: 11 <span class="altmetric-embed"
+data-badge-popover="right" data-badge-type="4"
 data-doi="10.1111/1365-2664.13971" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> Judy Shamoun-Baranes, Silke
 Bauer, Jason W Chapman, Peter Desmet, Adriaan M Dokter, Andrew
