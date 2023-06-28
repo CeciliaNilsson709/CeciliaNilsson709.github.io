@@ -15,7 +15,7 @@ Huan Xia, **Cecilia Nilsson**, Kasper Thorup, Chenxi Jia, Fumin Lei
 (2023) [Non-breeding movements of the Black-tailed Gull (Larus
 crassirostris).](NA) Avian Research 14, 100103, Citations: 0 <span
 class="altmetric-embed" data-badge-popover="right" data-badge-type="4"
-data-doi="NA" data-hide-no-mentions="true"
+data-doi="http://dx.doi.org/10.1016/j.avrs.2023.100103" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> Judy Shamoun-Baranes, Silke
 Bauer, Jason W Chapman, Peter Desmet, Adriaan M Dokter, Andrew
 Farnsworth, Hans van Gasteren, Birgen Haest, Jarmo Koistinen, Bart
