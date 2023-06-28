@@ -10,8 +10,10 @@ toc: true
   
   
 EOU Lund, Sweden, 21 – 25 August 2023:  
-Symposium [*Vertical space use of flying animals*](https://www.eou2023.event.lu.se/programme/symposia)
+Symposium organiser  [*Vertical space use of flying animals*](https://www.eou2023.event.lu.se/programme/symposia)
   
+Falsterbo Bird Show, 
+Sweden, 3 Sep 2023  
   
   
 ### Selected previous academic talks 
