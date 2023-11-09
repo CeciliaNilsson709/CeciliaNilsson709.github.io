@@ -7,16 +7,12 @@ toc: true
 ---
 
 ### Upcoming talks  
-  
-  
-EOU Lund, Sweden, 21 – 25 August 2023:  
-Symposium organiser  [*Vertical space use of flying animals*](https://www.eou2023.event.lu.se/programme/symposia)
-  
-Falsterbo Bird Show, 
-Sweden, 3 Sep 2023  
-  
+
+[Popular science talk at Naturrum Getterön, Sweden, 12 November 2023](https://www.naturumgetteron.se/kalender/foredrag-fagelflyttning-pa-vaderradar/)  
   
 ### Selected previous academic talks 
+
+**Cecilia Nilsson**, Emily Cohen. Symposium: *Vertical space use of flying animals*. EOU Lund, Sweden, 2023.
    
 **Cecilia Nilsson**. Using weather radar data for large scale monitoring of bird movements. Invited talk at the Norwegian Meteorological Institute’s Radar Day 2021, Virtual meeting, 2021.  
   
