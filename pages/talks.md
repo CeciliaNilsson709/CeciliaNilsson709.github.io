@@ -12,7 +12,7 @@ toc: true
   
 ### Selected previous academic talks 
 
-**Cecilia Nilsson**, Emily Cohen. Symposium organizers: *Vertical space use of flying animals*. European Ornithological Conference, Lund, Sweden, 2023.
+**Cecilia Nilsson**, Emily Cohen. Symposium organizers: *Vertical space use of flying animals*. 14th European Ornithologists' Union Congress, Lund, Sweden, 2023.
 
 **Cecilia Nilsson**, Emily Cohen. *Habitat use in the air: height layer mapping of co- migrating aerial fauna*. Invited talk in symposium at the International Ornithological Congress, Virtual meeting, 2022.
    
