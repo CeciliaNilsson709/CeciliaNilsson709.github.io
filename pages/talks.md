@@ -48,6 +48,8 @@ toc: true
   
 ### Previous science outreach lectures 
 
+**Cecilia Nilsson**. *Fågelflyttning på väderradar.* Falsterbo Bird Show, Sweden, 2023
+
 **Cecilia Nilsson**, Kyle Horton, Adriaan Dokter. *Dark Ecology- Studying night time bird migration with radar.* Public lecture in The Lab of Ornithology’s Monday Night Seminar series, Ithaca, USA, 2018 
   
 **Cecilia Nilsson**. *Dark Flights- Investigating flight behavior of nocturnal migrants.* Public lecture at Cornell University’s Ornithology seminar series, Ithaca, USA, 2017  
