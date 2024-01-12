@@ -8,7 +8,6 @@ toc: true
 
 ### Upcoming talks  
 
--
   
 ### Selected previous academic talks 
 
