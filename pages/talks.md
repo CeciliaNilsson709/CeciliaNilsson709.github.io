@@ -8,7 +8,7 @@ toc: true
 
 ### Upcoming talks  
 
-[Popular science talk at Naturrum Getterön, Sweden, 12 November 2023](https://www.naturumgetteron.se/kalender/foredrag-fagelflyttning-pa-vaderradar/)  
+-
   
 ### Selected previous academic talks 
 
@@ -49,6 +49,8 @@ toc: true
   
   
 ### Previous science outreach lectures 
+
+**Cecilia Nilsson**. *Fågelflyttning på väderradar.* Naturrum Getterön, Sweden, 2023
 
 **Cecilia Nilsson**. *Fågelflyttning på väderradar.* Falsterbo Bird Show, Sweden, 2023
 
