@@ -7,16 +7,13 @@ toc: true
 ---
 
 ### Upcoming talks  
-  
-  
-EOU Lund, Sweden, 21 – 25 August 2023:  
-Symposium organiser  [*Vertical space use of flying animals*](https://www.eou2023.event.lu.se/programme/symposia)
-  
-Falsterbo Bird Show, 
-Sweden, 3 Sep 2023  
-  
+
   
 ### Selected previous academic talks 
+
+**Cecilia Nilsson**, Emily Cohen. Symposium organizers: *Vertical space use of flying animals*. 14th European Ornithologists' Union Congress, Lund, Sweden, 2023.
+
+**Cecilia Nilsson**, Emily Cohen. *Habitat use in the air: height layer mapping of co- migrating aerial fauna*. Invited talk in symposium at the International Ornithological Congress, Virtual meeting, 2022.
    
 **Cecilia Nilsson**. Using weather radar data for large scale monitoring of bird movements. Invited talk at the Norwegian Meteorological Institute’s Radar Day 2021, Virtual meeting, 2021.  
   
@@ -51,6 +48,10 @@ Sweden, 3 Sep 2023
   
   
 ### Previous science outreach lectures 
+
+**Cecilia Nilsson**. *Fågelflyttning på väderradar.* Naturrum Getterön, Sweden, 2023
+
+**Cecilia Nilsson**. *Fågelflyttning på väderradar.* Falsterbo Bird Show, Sweden, 2023
 
 **Cecilia Nilsson**, Kyle Horton, Adriaan Dokter. *Dark Ecology- Studying night time bird migration with radar.* Public lecture in The Lab of Ornithology’s Monday Night Seminar series, Ithaca, USA, 2018 
   
