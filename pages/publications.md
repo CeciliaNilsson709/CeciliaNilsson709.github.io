@@ -32,7 +32,7 @@ Benjamin M Van Doren, Jeffrey J Kolodzinski, Judy Shamoun‐Baranes,
 Andrew Farnsworth (2021) [Bird strikes at commercial airports explained
 by citizen science and weather radar
 data.](http://dx.doi.org/10.1111/1365-2664.13971) Journal of Applied
-Ecology 58 (10), 2029-2039, Citations: 18 <span class="altmetric-embed"
+Ecology 58 (10), 2029-2039, Citations: 19 <span class="altmetric-embed"
 data-badge-popover="right" data-badge-type="4"
 data-doi="10.1111/1365-2664.13971" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> Judy Shamoun-Baranes, Silke
@@ -41,7 +41,7 @@ Farnsworth, Birgen Haest, Jarmo Koistinen, Bart Kranstauber, Felix
 Liechti, Tom HE Mason, **Cecilia Nilsson**, Raphael Nussbaumer, Baptiste
 Schmid, Nadja Weisshaupt, Hidde Leijnse (2021) [Weather radars’ role in
 biodiversity monitoring.](http://dx.doi.org/10.1126/science.abi4680)
-Science 372 (6539), 248-248, Citations: 11 <span class="altmetric-embed"
+Science 372 (6539), 248-248, Citations: 12 <span class="altmetric-embed"
 data-badge-popover="right" data-badge-type="4"
 data-doi="10.1126/science.abi4680" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> Kyle G Horton, **Cecilia
@@ -49,7 +49,7 @@ Nilsson**, Benjamin M Van Doren, Frank A La Sorte, Adriaan M Dokter,
 Andrew Farnsworth (2019) [Bright lights in the big cities: migratory
 birds’ exposure to artificial
 light.](http://dx.doi.org/10.1002/fee.2029) Frontiers in Ecology and the
-Environment 17 (4), 209-214, Citations: 116 <span
+Environment 17 (4), 209-214, Citations: 120 <span
 class="altmetric-embed" data-badge-popover="right" data-badge-type="4"
 data-doi="10.1002/fee.2029" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> **Cecilia Nilsson**, Adriaan M
@@ -69,7 +69,7 @@ Kelly, Don R Reynolds, Adriaan M Dokter, Jennifer F Krauel, Lars B
 Petterson, Kyle G Horton, Jason W Chapman (2019) [The grand challenges
 of migration ecology that radar aeroecology can help
 answer.](http://dx.doi.org/10.1111/ecog.04083) Ecography 42 (5),
-861-875, Citations: 71 <span class="altmetric-embed"
+861-875, Citations: 72 <span class="altmetric-embed"
 data-badge-popover="right" data-badge-type="4"
 data-doi="10.1111/ecog.04083" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> Tsung‐Yu Lin, Kevin Winner,
@@ -79,7 +79,7 @@ Sorte, Subhransu Maji, Daniel Sheldon (2019) [MistNet: Measuring
 historical bird migration in the US using archived weather radar data
 and convolutional neural
 networks.](http://dx.doi.org/10.1111/2041-210x.13280) Methods in Ecology
-and Evolution 10 (11), 1908-1922, Citations: 62 <span
+and Evolution 10 (11), 1908-1922, Citations: 63 <span
 class="altmetric-embed" data-badge-popover="right" data-badge-type="4"
 data-doi="10.1111/2041-210x.13280" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> Adriaan M Dokter, Peter
@@ -88,14 +88,14 @@ Verlinden, **Cecilia Nilsson**, Günther Haase, Hidde Leijnse, Andrew
 Farnsworth, Willem Bouten, Judy Shamoun‐Baranes (2019) [bioRad:
 biological analysis and visualization of weather radar
 data.](http://dx.doi.org/10.1111/ecog.04028) Ecography 42 (5), 852-860,
-Citations: 57 <span class="altmetric-embed" data-badge-popover="right"
+Citations: 59 <span class="altmetric-embed" data-badge-popover="right"
 data-badge-type="4" data-doi="10.1111/ecog.04028"
 data-hide-no-mentions="true" data-hide-less-than="10"></span> <br><br>
 Frank A La Sorte, Kyle G Horton, **Cecilia Nilsson**, Adriaan M Dokter
 (2019) [Projected changes in wind assistance under climate change for
 nocturnally migrating bird
 populations.](http://dx.doi.org/10.1111/gcb.14531) Global Change Biology
-25 (2), 589-601, Citations: 42 <span class="altmetric-embed"
+25 (2), 589-601, Citations: 43 <span class="altmetric-embed"
 data-badge-popover="right" data-badge-type="4"
 data-doi="10.1111/gcb.14531" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> Judy Shamoun-Baranes,
@@ -110,7 +110,7 @@ Nilsson**, Tsung-Yu Lin, Kevin Winner, Garrett Bernstein, Subhransu
 Maji, Daniel Sheldon, Andrew Farnsworth, Kyle G Horton (2019) [Migratory
 flight on the Pacific Flyway: strategies and tendencies of wind drift
 compensation.](http://dx.doi.org/10.1098/rsbl.2019.0383) Biology Letters
-15 (9), 20190383, Citations: 8 <span class="altmetric-embed"
+15 (9), 20190383, Citations: 9 <span class="altmetric-embed"
 data-badge-popover="right" data-badge-type="4"
 data-doi="10.1098/rsbl.2019.0383" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> **Cecilia Nilsson**, Johan
@@ -125,7 +125,7 @@ Liesbeth Verlinden, Johan Bäckman, Günther Haase, Giacomo Dell’Omo,
 Jason W Chapman, Hidde Leijnse, Felix Liechti (2018) [Field validation
 of radar systems for monitoring bird
 migration.](http://dx.doi.org/10.1111/1365-2664.13174) Journal of
-Applied Ecology 55 (6), 2552-2564, Citations: 58 <span
+Applied Ecology 55 (6), 2552-2564, Citations: 61 <span
 class="altmetric-embed" data-badge-popover="right" data-badge-type="4"
 data-doi="10.1111/1365-2664.13174" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> **Cecilia Nilsson**, Kyle G
@@ -198,27 +198,27 @@ data-badge-popover="right" data-badge-type="4" data-doi="NA"
 data-hide-no-mentions="true" data-hide-less-than="10"></span> <br><br>
 **Cecilia Nilsson**, Raymond HG Klaassen, Thomas Alerstam (2013)
 [Differences in speed and duration of bird migration between spring and
-autumn.](http://dx.doi.org/10.1086/670335) The American Naturalist 181
-(6), 837-845, Citations: 427 <span class="altmetric-embed"
-data-badge-popover="right" data-badge-type="4" data-doi="10.1086/670335"
-data-hide-no-mentions="true" data-hide-less-than="10"></span> <br><br>
-Thomas Alerstam, Jason W Chapman, Johan Bäckman, Alan D Smith, Håkan
-Karlsson, **Cecilia Nilsson**, Don R Reynolds, Raymond HG Klaassen, Jane
-K Hill (2011) [Convergent patterns of long-distance nocturnal migration
-in noctuid moths and passerine
-birds.](http://dx.doi.org/10.1098/rspb.2011.0058) Proceedings of the
-Royal Society B: Biological Sciences 278 (1721), 3074-3080, Citations:
-142 <span class="altmetric-embed" data-badge-popover="right"
-data-badge-type="4" data-doi="10.1098/rspb.2011.0058"
-data-hide-no-mentions="true" data-hide-less-than="10"></span> <br><br>
-Håkan Karlsson, **Cecilia Nilsson**, Johan Bäckman, Thomas Alerstam
-(2011) [Nocturnal passerine migrants fly faster in spring than in
-autumn: a test of the time minimization hypothesis.](NA) Animal
-Behaviour 83 (1), 87-93, Citations: 69 <span class="altmetric-embed"
-data-badge-popover="right" data-badge-type="4" data-doi="NA"
-data-hide-no-mentions="true" data-hide-less-than="10"></span> <br><br>
-Håkan Karlsson, **Cecilia Nilsson**, Johan Bäckman, Thomas Alerstam
-(2011) [Nocturnal passerine migration without tailwind
+autumn.](NA) The American Naturalist 181 (6), 837-845, Citations: 429
+<span class="altmetric-embed" data-badge-popover="right"
+data-badge-type="4" data-doi="NA" data-hide-no-mentions="true"
+data-hide-less-than="10"></span> <br><br> Thomas Alerstam, Jason W
+Chapman, Johan Bäckman, Alan D Smith, Håkan Karlsson, **Cecilia
+Nilsson**, Don R Reynolds, Raymond HG Klaassen, Jane K Hill (2011)
+[Convergent patterns of long-distance nocturnal migration in noctuid
+moths and passerine birds.](http://dx.doi.org/10.1098/rspb.2011.0058)
+Proceedings of the Royal Society B: Biological Sciences 278 (1721),
+3074-3080, Citations: 143 <span class="altmetric-embed"
+data-badge-popover="right" data-badge-type="4"
+data-doi="10.1098/rspb.2011.0058" data-hide-no-mentions="true"
+data-hide-less-than="10"></span> <br><br> Håkan Karlsson, **Cecilia
+Nilsson**, Johan Bäckman, Thomas Alerstam (2011) [Nocturnal passerine
+migrants fly faster in spring than in autumn: a test of the time
+minimization hypothesis.](NA) Animal Behaviour 83 (1), 87-93, Citations:
+69 <span class="altmetric-embed" data-badge-popover="right"
+data-badge-type="4" data-doi="NA" data-hide-no-mentions="true"
+data-hide-less-than="10"></span> <br><br> Håkan Karlsson, **Cecilia
+Nilsson**, Johan Bäckman, Thomas Alerstam (2011) [Nocturnal passerine
+migration without tailwind
 assistance.](http://dx.doi.org/10.1111/j.1474-919x.2011.01130.x) Ibis
 153 (3), 485-493, Citations: 44 <span class="altmetric-embed"
 data-badge-popover="right" data-badge-type="4"
@@ -232,7 +232,7 @@ data-badge-popover="right" data-badge-type="4" data-doi="NA"
 data-hide-no-mentions="true" data-hide-less-than="10"></span>
 
 <br>*Citations and publications from Google scholar, updated
-2024-01-22.*
+2024-03-01.*
 
 <br>*Feel free to*
 <a href = "mailto:cecilia.nilsson@biol.lu.se?subject=Paper%20request">
