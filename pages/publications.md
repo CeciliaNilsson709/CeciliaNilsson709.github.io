@@ -13,12 +13,12 @@ permalink: /publications/
 
 **Cecilia Nilsson**, Adriaan Dokter, Silke Bauer, Kyle Horton, Andrew
 Farnsworth (2024) [Advances in weather radar monitoring of bird
-movement.](NA) Advances in Weather Radar: Emerging Applications 241,
+movement.](https://digital-library.theiet.org/content/books/10.1049/sbra557h_ch7) Advances in Weather Radar: Emerging Applications 241,
 Citations: 0 <span class="altmetric-embed" data-badge-popover="right"
 data-badge-type="4" data-doi="NA" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> Huan Xia, **Cecilia Nilsson**,
 Kasper Thorup, Chenxi Jia, Fumin Lei (2023) [Non-breeding movements of
-the Black-tailed Gull (Larus crassirostris).](NA) Avian Research 14,
+the Black-tailed Gull (Larus crassirostris).](https://www.sciencedirect.com/science/article/pii/S2053716623000294#:~:text=Furthermore%2C%20we%20found%20that%20the,from%20the%20post%2Dbreeding%20site.) Avian Research 14,
 100103, Citations: 3 <span class="altmetric-embed"
 data-badge-popover="right" data-badge-type="4" data-doi="NA"
 data-hide-no-mentions="true" data-hide-less-than="10"></span> <br><br>
