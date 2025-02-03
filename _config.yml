@@ -15,7 +15,7 @@ social:
   github: CeciliaNilsson709            # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
-remote_theme: peterdesmet/petridish@3.0
+remote_theme: peterdesmet/petridish@3.1
 archive_permalink: /blog/               # Permalink of page using archive.html layout, required when using post categories
 logo: /assets/cecilia-nilsson.png       # Logo in navbar, will be displayed with 30px height
 colors:
