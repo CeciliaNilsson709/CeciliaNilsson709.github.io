@@ -7,9 +7,10 @@ toc: true
 ---
 
 ### Upcoming talks  
-
   
 ### Selected previous academic talks 
+
+**Cecilia Nilsson**, Cisco, Women Rock-IT  (https://www.cisco.com/c/m/en_sg/partners/women-rock-it/presentations.html?socialshare=lightbox-predictive), 2024.
 
 **Cecilia Nilsson**, Emily Cohen. Symposium organizers: *Vertical space use of flying animals*. 14th European Ornithologists' Union Congress, Lund, Sweden, 2023.
 
