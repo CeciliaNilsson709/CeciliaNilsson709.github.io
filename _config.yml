@@ -9,9 +9,10 @@ author: Cecilia Nilsson                  # Used for copyright statement in foote
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/about/#links
 
 # SOCIAL PROFILES
-email: cecilia.nilsson709@gmail.com           # Social icon in footer
-bluesky: cnilsson709.bsky.social    # Social icon in footer
-github: CeciliaNilsson709            # Social icon in footer
+social:
+  email: cecilia.nilsson709@gmail.com   # Social icon in footer
+  bluesky: cnilsson709.bsky.social    # Social icon in footer
+  github: CeciliaNilsson709            # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
 remote_theme: peterdesmet/petridish@3.0
