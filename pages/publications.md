@@ -1,7 +1,7 @@
 ---  
 title: Publications  
 description:  
-background: /assets/IMG\_4697.JPG  
+background: /assets/IMG/4697.JPG  
 permalink: /publications/  
 ---
 
