@@ -47,6 +47,7 @@ toc: true
   
   
 ### Previous science outreach lectures 
+**Cecilia Nilsson**. Cisco, Women Rock-IT [The power of predictive modelling ](https://www.cisco.com/c/m/en_sg/partners/women-rock-it/presentations.html?socialshare=lightbox-predictive), broadcast, 2024.
 
 **Cecilia Nilsson**. *Fågelflyttning på väderradar.* Naturrum Getterön, Sweden, 2023
 

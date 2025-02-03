@@ -9,7 +9,7 @@ permalink: /press/
 
 BBC World Service: [The Documentary Podcast: Licence to operate a space object](https://www.bbc.co.uk/sounds/play/p0khf5lj), 2025
 
-Cisco, Women Rock-IT  [The power of predictive modeling ](https://www.cisco.com/c/m/en_sg/partners/women-rock-it/presentations.html?socialshare=lightbox-predictive), 2024.
+Cisco, Women Rock-IT  [The power of predictive modelling ](https://www.cisco.com/c/m/en_sg/partners/women-rock-it/presentations.html?socialshare=lightbox-predictive), 2024.
 
 The Washington Post: [Birds, bees and even plants might act weird during the solar eclipse](https://www.washingtonpost.com/science/2024/03/26/total-solar-eclipse-animals-react), 2024
 
