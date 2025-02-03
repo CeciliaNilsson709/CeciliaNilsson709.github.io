@@ -10,13 +10,13 @@ author: Cecilia Nilsson                  # Used for copyright statement in foote
 
 # SOCIAL PROFILES
 email: cecilia.nilsson709@gmail.com           # Social icon in footer
-twitter_username: cnilsson709           # Social icon in footer
+bluesky_username: @cnilsson709.bsky.social         # Social icon in footer
 github_username: CeciliaNilsson709            # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
-remote_theme: peterdesmet/petridish@2.0
+remote_theme: peterdesmet/petridish@3.0
 #posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
-tweets_on_home: true                    # Show Twitter feed of twitter_username on homepage
+tweets_on_home: false                    # Show Twitter feed of twitter_username on homepage
 archive_permalink: /blog/               # Permalink of page using archive.html layout, required when using post categories
 logo: /assets/cecilia-nilsson.png       # Logo in navbar, will be displayed with 30px height
 colors:
