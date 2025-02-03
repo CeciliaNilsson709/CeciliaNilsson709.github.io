@@ -11,16 +11,14 @@ permalink: /publications/
 <a href = "mailto:cecilia.nilsson@biol.lu.se-subject=Paper_request">
 *email me* </a> *for a PDF copy of any of my articles*
 
+**Cecilia Nilsson**, Adriaan
+Dokter, Silke Bauer, Kyle Horton, Andrew Farnsworth (2023) [Advances in
+weather radar monitoring of bird movement.](https://digital-library.theiet.org/doi/10.1049/sbra557h_ch7), Citations: 0 <br><br> 
 Huan Xia, **Cecilia Nilsson**, Kasper Thorup, Chenxi Jia, Fumin Lei
 (2023) [Non-breeding movements of the Black-tailed Gull (Larus
-crassirostris).](NA) Avian Research 14, 100103, Citations: 6
+crassirostris).](https://www.sciencedirect.com/science/article/pii/S2053716623000294) Avian Research 14, 100103, Citations: 6
 <span class="altmetric-embed" data-badge-popover="right"
-data-badge-type="4" data-doi="NA" data-hide-no-mentions="true"
-data-hide-less-than="10"></span> <br><br> **Cecilia Nilsson**, Adriaan
-Dokter, Silke Bauer, Kyle Horton, Andrew Farnsworth (2023) [Advances in
-weather radar monitoring of bird movement.](NA) , Citations: 0
-<span class="altmetric-embed" data-badge-popover="right"
-data-badge-type="4" data-doi="NA" data-hide-no-mentions="true"
+data-badge-type="4" data-doi="10.1016/j.avrs.2023.100103" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> Judy Shamoun-Baranes, Silke
 Bauer, Jason W Chapman, Peter Desmet, Adriaan M Dokter, Andrew
 Farnsworth, Hans van Gasteren, Birgen Haest, Jarmo Koistinen, Bart
@@ -61,8 +59,8 @@ data-hide-no-mentions="true" data-hide-less-than="10"></span> <br><br>
 **Cecilia Nilsson**, Adriaan M Dokter, Liesbeth Verlinden, Judy
 Shamoun-Baranes, Baptiste Schmid, Peter Desmet, Silke Bauer, Jason
 Chapman, Jose A Alves, Phillip M Stepanian, Nir Sapir, Charlotte
-Wainwright, Mathieu Boos, Anna G?rska, Myles HM Menz, Pedro Rodrigues,
-Hidde Leijnse, Pavel Zehtindjiev, Robin Brabant, G?nther Haase, Nadja
+Wainwright, Mathieu Boos, Anna Gorska, Myles HM Menz, Pedro Rodrigues,
+Hidde Leijnse, Pavel Zehtindjiev, Robin Brabant, Gunther Haase, Nadja
 Weisshaupt, Michal Ciach, Felix Liechti (2019) [Revealing patterns of
 nocturnal migration using the European weather radar
 network.](http://dx.doi.org/10.1111/ecog.04003) Ecography 42 (5),
