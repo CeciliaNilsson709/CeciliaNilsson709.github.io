@@ -6,7 +6,13 @@ permalink: /press/
 ---
   
 **Some selected media stories covering different parts of my research:**
-  
+
+BBC World Service: [The Documentary Podcast: Licence to operate a space object](https://www.bbc.co.uk/sounds/play/p0khf5lj), 2025
+
+The Washington Post: [Birds, bees and even plants might act weird during the solar eclipse](https://www.washingtonpost.com/science/2024/03/26/total-solar-eclipse-animals-react), 2024
+
+BBC: [Why some animals get agitated during a solar eclipse] (https://www.bbc.com/future/article/20240405-solar-eclipse-2024-effect-on-animals), 2024
+
 Audubon Magazine: [A New Golden Age of Observation Is Revealing the Wonders of Night Migration](https://www.audubon.org/node/366450), 2021
   
 The New York Times Magazine: [The Mysterious Life of Birds Who Never Come Down ](https://www.nytimes.com/2020/07/29/magazine/vesper-flights.html), 2020  
