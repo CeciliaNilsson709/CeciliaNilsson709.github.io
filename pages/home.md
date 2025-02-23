@@ -17,7 +17,7 @@ OrcID: [0000-0001-8957-4411](https://orcid.org/0000-0001-8957-4411)
    
 ---
   
-Find me on: [Bluesky](https://bsky.app/profile/cnilsson709.bsky.social), [ResearchGate](https://www.researchgate.net/profile/Cecilia_Nilsson), [Google Scholar](https://scholar.google.com/citations?user=A-9PdlkAAAAJ&hl=en) or [GitHub](https://github.com/CeciliaNilsson709).
+Find me on: [Bluesky](https://bsky.app/profile/cnilsson.science), [ResearchGate](https://www.researchgate.net/profile/Cecilia_Nilsson), [Google Scholar](https://scholar.google.com/citations?user=A-9PdlkAAAAJ&hl=en) or [GitHub](https://github.com/CeciliaNilsson709).
  
 ---
   
