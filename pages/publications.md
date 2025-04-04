@@ -9,7 +9,7 @@ permalink: /publications/
 
 *Feel free to*
 <a href = "mailto:cecilia.nilsson@biol.lu.se?subject=Paper_request">
-*email me* </a> *for a PDF copy of any of my articles*
+*email me* </a> *for a PDF copy of any of my articles!*
 
 Peter Desmet, Judy Shamoun-Baranes, Bart Kranstauber, Adriaan M Dokter,
 Nadja Weisshaupt, Baptiste Schmid, Silke Bauer, Günther Haase, Bart
