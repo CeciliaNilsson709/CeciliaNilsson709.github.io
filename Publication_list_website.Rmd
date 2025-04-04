@@ -53,7 +53,8 @@ AU<-"A-9PdlkAAAAJ" #CN
 
 # list DOI's for papers you want altmetrics for. DOI without initial url. 
 # The order doesn't matter.
-DOI <- c("10.1175/BAMS-D-21-0196.1",
+DOI <- c("10.1038/s41597-025-04641-5",
+         "10.1175/BAMS-D-21-0196.1",
          "10.1016/j.avrs.2023.100103",
          "10.1098/rsbl.2018.0485", 
          "10.1111/1365-2664.13174", 
@@ -108,15 +109,6 @@ pub_list%>%
 # latin1 encodings. If you find more, add them here:
 
 Encoding(pub_list$author)<-"UTF-8"
-
-#pub_list$author<-sub("\xe4", "ä", pub_list$author)
-#pub_list$author<-sub("\xe5", "å", pub_list$author)
-#pub_list$author<-sub("\xf6", "ö", pub_list$author)
-#pub_list$author<-sub("\xfc", "ü", pub_list$author)
-#pub_list$author<-sub("\xf3", "ó", pub_list$author)
-#pub_list$author<-sub("\xe9", "é", pub_list$author)
-#pub_list$author<-sub("\xc5", "Å", pub_list$author)
-
 
 ```
 
@@ -225,7 +217,7 @@ altmetrics%>%
 
 ```
 
-```{r mearge}
+```{r merge}
 ## Create table with publications, citations and altmetrics
 
 # join publication list from google scholar with altmetrics. 
