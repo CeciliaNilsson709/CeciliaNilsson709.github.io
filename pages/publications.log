@@ -1,0 +1,25 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdftex 2020.11.9)  3 FEB 2025 17:08
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**publications.md
+(./publications.md
+./publications.md:4: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.4 background: /assets/IMG_
+                            4697.JPG
+? 
+./publications.md:4: Emergency stop.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.4 background: /assets/IMG_
+                            4697.JPG
+End of file on the terminal!
+
+./publications.md:4:  ==> Fatal error occurred, no output PDF file produced!
