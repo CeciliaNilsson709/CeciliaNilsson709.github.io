@@ -119,63 +119,7 @@ Encoding(pub_list$author)<-"UTF-8"
 
 ```
 
-
-```{r Altmetric API test, eval=FALSE}
-
-## Extract altmetrics from DOI's with altmetic API (DOI should be without url).
-
-# Create data frame
-altmetrics<-data.frame("title" = character(1),
-                       "score"  = numeric(1),
-                       "URL" = character(1),
-                       "doi"  = character(1),
-                       stringsAsFactors=FALSE)
-
-# loop though DOIs, creating urls, recording json response and add to data frame.
-# altmetiric score is rounded up (ceiling), because thats how it's displayed in badges.
-
-for (i in DOI){
-tryCatch({
-    url = paste0(
-      "https://api.altmetric.com/v1/doi/",i)
-
-    response = fromJSON(url)
-  
-                              a<-list(response$title[1], 
-                                     ceiling(response$score[1]),
-                                     response$url[1],
-                                     response$doi[1])
-                                              #  paste(response$authors, collapse = ", ")))
-}, error=function(cond){  
-         url = paste0(
-        "https://api.crossref.org/works/",i)
-
-        response = fromJSON(url)
-  
-        a<-list(response$message$title[1], 
-                                                0,
-                                                response$message$URL[1],
-                                                response$message$DOI[1])
-        
-        return(a)
-        
-},
-finally={
-  
-  altmetrics <-rbind(altmetrics, a)
-  
-}
-
-)
-  
-                                 
-}
-
-# clean up data frame
-altmetrics%>%
-  filter(title != "")->altmetrics
-
-```
+https://api.altmetric.com/v1/doi/10.1007/s00265-010-1015-z
 
 ```{r Altmetric API}
 
@@ -223,12 +167,12 @@ altmetrics%>%
 # join publication list from google scholar with altmetrics. 
 # fuzzy join by title. Sort by decending year.
 pub_list%>%
-  regex_left_join(altmetrics[, c("title","score", "URL", "doi")], by="title", ignore_case=TRUE)%>%
+  stringdist_left_join(altmetrics[, c("title","score", "URL", "doi")], by="title", ignore_case=TRUE)%>%
   arrange(desc(year)) %>% 
   mutate(score = if_else(is.na(score), 0, score))->pub_list_alt
 
 
-# set up "final textblock". If you want to change formating, do here and in loop below.
+# set up final "textblock". If you want to change formatting, do here and in loop below.
 final<-paste0(pub_list_alt$author[1], " ",
                             "(",
                             pub_list_alt$year[1], 
