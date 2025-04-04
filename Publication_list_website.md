@@ -8,7 +8,7 @@ permalink: /publications/
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 *Feel free to*
-<a href = "mailto:cecilia.nilsson@biol.lu.se?subject=Paper request">
+<a href = "mailto:cecilia.nilsson@biol.lu.se?subject=Paper_request">
 *email me* </a> *for a PDF copy of any of my articles*
 
 Peter Desmet, Judy Shamoun-Baranes, Bart Kranstauber, Adriaan M Dokter,
@@ -245,5 +245,5 @@ data-hide-no-mentions="true" data-hide-less-than="10"></span>
 2025-04-04.*
 
 <br>*Feel free to*
-<a href = "mailto:cecilia.nilsson@biol.lu.se?subject=Paper request">
+<a href = "mailto:cecilia.nilsson@biol.lu.se?subject=Paper_request">
 *email me* </a> *for a PDF copy of any of my articles*
