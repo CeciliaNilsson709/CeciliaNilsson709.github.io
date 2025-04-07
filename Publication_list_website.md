@@ -1,7 +1,7 @@
 ---  
 title: Publications  
 description:  
-background: /assets/IMG_4697.JPG  
+background: /assets/IMG\_4697.JPG  
 permalink: /publications/  
 ---
 
@@ -10,6 +10,10 @@ permalink: /publications/
 *Feel free to*
 <a href = "mailto:cecilia.nilsson@biol.lu.se?subject=Paper%20request">
 *email me* </a> *for a PDF copy of any of my articles*
+
+<https://api.crossref.org/works/10.5555%2F12345678>
+
+<https://api.altmetric.com/v1/doi/10.1007/s00265-010-1015-z>
 
 Peter Desmet, Judy Shamoun-Baranes, Bart Kranstauber, Adriaan M Dokter,
 Nadja Weisshaupt, Baptiste Schmid, Silke Bauer, Günther Haase, Bart

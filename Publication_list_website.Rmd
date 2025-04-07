@@ -8,6 +8,7 @@ library(scholar)
 library(dplyr)
 library(fuzzyjoin)
 library(knitr)
+library(stringr)
 
 knitr::opts_chunk$set(echo = FALSE, warning=FALSE, message=FALSE, comment = '')
 Sys.setenv(TZ="UTC") 
@@ -88,7 +89,6 @@ DOI <- c("10.1038/s41597-025-04641-5",
 
 ```
 
-
 ```{r pubs, include=FALSE}
 
 # extract author profile
@@ -119,11 +119,56 @@ Encoding(pub_list$author)<-"UTF-8"
 
 ```
 
-https://api.altmetric.com/v1/doi/10.1007/s00265-010-1015-z
+```{r crossref API}
+
+## Use crossref to connect DOI's to titles (cant only use altmetrics api because fails when no altmetric score found)
+
+# Create data frame
+crossref<-data.frame("title" = character(1),
+                       "URL" = character(1),
+                       "doi"  = character(1),
+                       stringsAsFactors=FALSE)
+
+# loop though DOIs, creating urls, recording json response and add to data frame.
+
+for (i in DOI){
+tryCatch({
+    url = paste0(
+      "https://api.crossref.org/works/",i)
+
+    response = fromJSON(url)
+  
+                  crossref <-rbind(crossref, list(response$message$title[1],
+                                     response$message$URL[1],
+                                     response$message$DOI[1]))
+}, error=function(e){  
+        
+}
+
+)
+  
+}
+
+# clean up data frame, take away formating. Might need to add others
+crossref%>%
+  filter(title != "") %>% 
+  mutate(title = gsub("<i>","", title)) %>% 
+  mutate(title = gsub("</i>","", title)) %>% 
+  mutate(title = gsub("<scp>","", title)) %>% 
+  mutate(title = gsub("</scp>","", title))->crossref
+
+```
+
+```{r merge publist and crossref}
+
+pub_list%>%
+  stringdist_left_join(crossref, by="title", ignore_case=TRUE)->pub_list_doi
+
+```
 
 ```{r Altmetric API}
 
-## Extract altmetrics from DOI's with altmetic API (DOI should be without url).
+## Extract altmetrics from DOI's with altmetic API.
 
 # Create data frame
 altmetrics<-data.frame("title" = character(1),
@@ -161,13 +206,13 @@ altmetrics%>%
 
 ```
 
-```{r merge}
+```{r add altmetrics}
 ## Create table with publications, citations and altmetrics
 
-# join publication list from google scholar with altmetrics. 
-# fuzzy join by title. Sort by decending year.
-pub_list%>%
-  stringdist_left_join(altmetrics[, c("title","score", "URL", "doi")], by="title", ignore_case=TRUE)%>%
+# join publication list with altmetrics.
+#join by doi. Sort by decending year.
+pub_list_doi%>%
+  left_join(altmetrics[, c("title","score", "doi")], by="doi")%>%
   arrange(desc(year)) %>% 
   mutate(score = if_else(is.na(score), 0, score))->pub_list_alt
 
@@ -221,7 +266,6 @@ for (i in c(2:length(pub_list_alt$title.x)))
 final<-gsub(paste(Author$name[1]), paste0("**", Author$name[1], "**"), final)
 
 ```
-   
    
 ```{r add title}
 
