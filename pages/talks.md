@@ -8,7 +8,9 @@ toc: true
 
 ### Upcoming talks  
   
-### Selected previous academic talks 
+### Selected previous academic talks
+
+**Cecilia Nilsson**, *Large scale monitoring of migratory bird movements*. Invited talk at Symposium on Animal Navigation 2025, Oldenburg, Germany, 2025
 
 **Cecilia Nilsson**, Emily Cohen. Symposium organizers: *Vertical space use of flying animals*. 14th European Ornithologists' Union Congress, Lund, Sweden, 2023.
 
