@@ -11,7 +11,7 @@ permalink: /publications/
 <a href = "mailto:cecilia.nilsson@biol.lu.se?subject=Paper request">
 *email me* </a> *for a PDF copy of any of my articles*
 
-**Cecilia Nilsson**, Judy Shamoun-Baranes, Dara Satterfield, Sissel Sjöberg, Emily B. Cohen (2025) [Animal Niches in the Airspace.] In Press
+**Cecilia Nilsson**, Judy Shamoun-Baranes, Dara Satterfield, Sissel Sjöberg, Emily B. Cohen (2025) Animal Niches in the Airspace. In Press
 
 Peter Desmet, Judy Shamoun-Baranes, Bart Kranstauber, Adriaan M Dokter,
 Nadja Weisshaupt, Baptiste Schmid, Silke Bauer, Günther Haase, Bart
