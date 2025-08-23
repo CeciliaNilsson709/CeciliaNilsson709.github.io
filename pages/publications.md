@@ -21,8 +21,7 @@ data-badge-popover="right" data-badge-type="4"
 data-doi="10.1038/s41597-025-04641-5" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> Huan Xia, **Cecilia Nilsson**,
 Kasper Thorup, Chenxi Jia, Fumin Lei (2023) [Non-breeding movements of
-the Black-tailed Gull (Larus
-crassirostris).](https://doi.org/10.1016/j.avrs.2023.100103) Avian
+the Black-tailed Gull (Larus crassirostris).](https://doi.org/10.1016/j.avrs.2023.100103) Avian
 Research 14, 100103, Citations: 11 <span class="altmetric-embed"
 data-badge-popover="right" data-badge-type="4"
 data-doi="10.1016/j.avrs.2023.100103" data-hide-no-mentions="true"
@@ -47,9 +46,9 @@ data-hide-no-mentions="true" data-hide-less-than="10"></span> <br><br>
 **Cecilia Nilsson**, Frank A La Sorte, Adriaan Dokter, Kyle Horton,
 Benjamin M Van Doren, Jeffrey J Kolodzinski, Judy Shamoun?Baranes,
 Andrew Farnsworth (2021) [Bird strikes at commercial airports explained
-by citizen science and weather radar data.](NA) Journal of Applied
+by citizen science and weather radar data.]( https://doi.org/10.1111/1365-2664.13971) Journal of Applied
 Ecology 58 (10), 2029-2039, Citations: 49 <span class="altmetric-embed"
-data-badge-popover="right" data-badge-type="4" data-doi="NA"
+data-badge-popover="right" data-badge-type="4" data-doi="10.1111/1365-2664.13971"
 data-hide-no-mentions="true" data-hide-less-than="10"></span> <br><br>
 Judy Shamoun-Baranes, Silke Bauer, Jason W Chapman, Peter Desmet,
 Adriaan M Dokter, Andrew Farnsworth, Birgen Haest, Jarmo Koistinen, Bart
@@ -87,7 +86,7 @@ data.](https://doi.org/10.1111/ecog.04028) Ecography 42 (5), 852-860,
 Citations: 114 <span class="altmetric-embed" data-badge-popover="right"
 data-badge-type="4" data-doi="10.1111/ecog.04028"
 data-hide-no-mentions="true" data-hide-less-than="10"></span> <br><br>
-Silke Bauer, Judy Shamoun?Baranes, **Cecilia Nilsson**, Andrew
+Silke Bauer, Judy Shamoun-Baranes, **Cecilia Nilsson**, Andrew
 Farnsworth, Jeffrey F Kelly, Don R Reynolds, Adriaan M Dokter, Jennifer
 F Krauel, Lars B Petterson, Kyle G Horton, Jason W Chapman (2019) [The
 grand challenges of migration ecology that radar aeroecology can help
@@ -95,7 +94,7 @@ answer.](https://doi.org/10.1111/ecog.04083) Ecography 42 (5), 861-875,
 Citations: 103 <span class="altmetric-embed" data-badge-popover="right"
 data-badge-type="4" data-doi="10.1111/ecog.04083"
 data-hide-no-mentions="true" data-hide-less-than="10"></span> <br><br>
-Tsung?Yu Lin, Kevin Winner, Garrett Bernstein, Abhay Mittal, Adriaan M
+Tsung-Yu Lin, Kevin Winner, Garrett Bernstein, Abhay Mittal, Adriaan M
 Dokter, Kyle G Horton, **Cecilia Nilsson**, Benjamin M Van Doren, Andrew
 Farnsworth, Frank A La Sorte, Subhransu Maji, Daniel Sheldon (2019)
 [MistNet: Measuring historical bird migration in the US using archived
@@ -115,7 +114,7 @@ data-doi="10.1111/gcb.14531" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> Judy Shamoun-Baranes,
 **Cecilia Nilsson**, Silke Bauer, Jason Chapman (2019) [Taking radar
 aeroecology into the 21st century.](https://doi.org/10.1111/ecog.04582)
-Ecography 42 (5), 847?851, Citations: 19 <span class="altmetric-embed"
+Ecography 42 (5), 847-851, Citations: 19 <span class="altmetric-embed"
 data-badge-popover="right" data-badge-type="4"
 data-doi="10.1111/ecog.04582" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> Patrick B Newcombe, **Cecilia
@@ -134,7 +133,7 @@ data-badge-popover="right" data-badge-type="4"
 data-doi="10.1111/ibi.12704" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> **Cecilia Nilsson**, Adriaan M
 Dokter, Baptiste Schmid, Martina Scacco, Liesbeth Verlinden, Johan
-Bäckman, Günther Haase, Giacomo Dell?Omo, Jason W Chapman, Hidde
+Bäckman, Günther Haase, Giacomo Dell-Omo, Jason W Chapman, Hidde
 Leijnse, Felix Liechti (2018) [Field validation of radar systems for
 monitoring bird migration.](https://doi.org/10.1111/1365-2664.13174)
 Journal of Applied Ecology 55 (6), 2552-2564, Citations: 89
