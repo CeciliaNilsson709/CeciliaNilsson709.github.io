@@ -30,7 +30,7 @@ data-doi="10.1016/j.avrs.2023.100103" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> **Cecilia Nilsson**, Adriaan
 Dokter, Silke Bauer, Kyle Horton, Andrew Farnsworth (2023) [Advances in
 weather radar monitoring of bird
-movement.](https://doi.org/10.1049/sbra557h_ch7) , Citations: 1
+movement.](https://doi.org/10.1049/sbra557h_ch7) V.N. Bringi, et al. (Eds.), Advances in Weather Radar. Volume 3: Emerging Applications, Institution of Engineering and Technology, Citations: 1
 <span class="altmetric-embed" data-badge-popover="right"
 data-badge-type="4" data-doi="10.1049/sbra557h_ch7"
 data-hide-no-mentions="true" data-hide-less-than="10"></span> <br><br>
