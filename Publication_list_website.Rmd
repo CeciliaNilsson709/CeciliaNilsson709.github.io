@@ -53,7 +53,8 @@ AU<-"A-9PdlkAAAAJ" #CN
 
 # list DOI's for papers you want altmetrics for. DOI without initial url. 
 # The order doesn't matter.
-DOI <- c("10.1038/s41597-025-04641-5",
+DOI <- c("10.1016/j.tree.2025.08.006",
+         "10.1038/s41597-025-04641-5",
          "10.1175/BAMS-D-21-0196.1",
          "10.1016/j.avrs.2023.100103",
          "10.1098/rsbl.2018.0485", 
