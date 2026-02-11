@@ -7,6 +7,10 @@ toc: true
 ---
 
 ### Upcoming talks  
+
+**Cecilia Nilsson**, *Animal Movements in the Aerial habitat*. Keynote at [The Coins 2026](https://www.thecoins.eu), Vilnius, Lithuania, 2026
+
+**Cecilia Nilsson**, *Animal Niches in the Airspace*. Talk at [IRAC 2026](https://hirad.science/irac-2026/), Vilnius, Lithuania, 2026
   
 ### Selected previous academic talks
 
