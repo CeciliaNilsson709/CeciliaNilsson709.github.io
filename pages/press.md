@@ -9,6 +9,8 @@ permalink: /press/
 
 Lithuanian National Radio and Television: [Niujorkas išjungia šviesą saugodamas paukščius – ar tai galima būtų pritaikyti Lietuvoje?](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2886433/niujorkas-isjungia-sviesa-saugodamas-paukscius-ar-tai-galima-butu-pritaikyti-lietuvoje), 2026
 
+Dagens PS: [Från drönare till duvor: så ser det verkliga luftrummet ut](https://www.dagensps.se/varlden/fran-dronare-till-duvor-sa-ser-det-verkliga-luftrummet-ut/), 2026
+
 BBC World Service: [The Documentary Podcast: Licence to operate a space object](https://www.bbc.co.uk/sounds/play/p0khf5lj), 2025
 
 Cisco, Women Rock-IT  [The power of predictive modelling ](https://www.cisco.com/c/m/en_sg/partners/women-rock-it/presentations.html?socialshare=lightbox-predictive), 2024.
