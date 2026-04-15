@@ -7,7 +7,7 @@ permalink: /press/
   
 **Some selected media stories covering different parts of my research:**
 
-BBC World Service: [The Documentary Podcast: Licence to operate a space object](https://www.bbc.co.uk/sounds/play/p0khf5lj), 2026
+Lithuanian National Radio and Television: [Niujorkas išjungia šviesą saugodamas paukščius – ar tai galima būtų pritaikyti Lietuvoje?](https://www.lrt.lt/naujienos/mokslas-ir-it/11/2886433/niujorkas-isjungia-sviesa-saugodamas-paukscius-ar-tai-galima-butu-pritaikyti-lietuvoje), 2026
 
 BBC World Service: [The Documentary Podcast: Licence to operate a space object](https://www.bbc.co.uk/sounds/play/p0khf5lj), 2025
 
