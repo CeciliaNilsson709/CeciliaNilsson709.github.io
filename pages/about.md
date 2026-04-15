@@ -15,6 +15,6 @@ After that I worked as a Marie Skłodowska-Curie post doc fellow (funded through
 
 Currently I am a researcher at the Biology Department, Lund University. My research now focuses on using weather radars to monitor biodiversity at large scales, disruptions to animal migration, bird movements in extreme conditions, and the conflicts that arise when birds and humans share aerial habitat.
 
-I help maintain the [Aloft](https://aloftdata.eu) weather radar data portal and I am part of the [HiRad](https://hirad.science) international network (see also [ENRAM](http://www.enram.eu) and [GloBAM](https://globam.science)), working on improving the quality and access of weather radar data for biological research. 
+I help maintain the [Aloft](https://aloftdata.eu) weather radar data portal and I am part of the [HiRAD](https://hirad.science) international network (see also [ENRAM](http://www.enram.eu) and [GloBAM](https://globam.science)), working on improving the quality and access of weather radar data for biological research. 
 
 My research is funded by the European Research Council (grant agreement 101231135) and [FORMAS](https://formas.se/en/start-page.html), the Swedish Research Council for Sustainable Development.
