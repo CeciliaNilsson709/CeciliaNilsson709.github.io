@@ -64,7 +64,7 @@ data-doi="10.1126/science.abi4680" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> Kyle G Horton, **Cecilia
 Nilsson**, Benjamin M Van Doren, Frank A La Sorte, Adriaan M Dokter,
 Andrew Farnsworth (2019) [Bright lights in the big cities: migratory
-birds- exposure to artificial light.](https://doi.org/10.1002/fee.2029)
+birds exposure to artificial light.](https://doi.org/10.1002/fee.2029)
 Frontiers in Ecology and the Environment 17 (4), 209-214, Citations: 182
 <span class="altmetric-embed" data-badge-popover="right"
 data-badge-type="4" data-doi="10.1002/fee.2029"
