@@ -11,7 +11,7 @@ permalink: /publications/
 <a href = "mailto:cecilia.nilsson@biol.lu.se?subject=Paper%20request">
 *email me* </a> *for a PDF copy of any of my articles*
 
-**Cecilia Nilsson**, Judy Shamoun-Baranes, Dara Satterfield, Sissel Sjöberg, Emily B. Cohen (2025) Animal Niches in the Airspace. Trends in Ecology & Evolution 40(11)1101-1112
+**Cecilia Nilsson**, Judy Shamoun-Baranes, Dara Satterfield, Sissel Sjöberg, Emily B. Cohen (2025) [Animal Niches in the Airspace.](https://www.sciencedirect.com/science/article/pii/S0169534725002277) Trends in Ecology & Evolution 40(11)1101-1112
 
 Peter Desmet, Judy Shamoun-Baranes, Bart Kranstauber, Adriaan M Dokter,
 Nadja Weisshaupt, Baptiste Schmid, Silke Bauer, Günther Haase, Bart
@@ -46,7 +46,7 @@ American Meteorological Society 103 (4), E1234-E1242, Citations: 20
 data-badge-type="4" data-doi="NA" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> **Cecilia Nilsson**, Frank A
 La Sorte, Adriaan Dokter, Kyle Horton, Benjamin M Van Doren, Jeffrey J
-Kolodzinski, Judy Shamoun?Baranes, Andrew Farnsworth (2021) [Bird
+Kolodzinski, Judy Shamoun-Baranes, Andrew Farnsworth (2021) [Bird
 strikes at commercial airports explained by citizen science and weather
 radar data.](https://doi.org/10.1111/1365-2664.13971) Journal of Applied
 Ecology 58 (10), 2029-2039, Citations: 62 <span class="altmetric-embed"
@@ -56,7 +56,7 @@ data-hide-less-than="10"></span> <br><br> Judy Shamoun-Baranes, Silke
 Bauer, Jason W Chapman, Peter Desmet, Adriaan M Dokter, Andrew
 Farnsworth, Birgen Haest, Jarmo Koistinen, Bart Kranstauber, Felix
 Liechti, Tom HE Mason, **Cecilia Nilsson**, Raphael Nussbaumer, Baptiste
-Schmid, Nadja Weisshaupt, Hidde Leijnse (2021) [Weather radars? role in
+Schmid, Nadja Weisshaupt, Hidde Leijnse (2021) [Weather radars role in
 biodiversity monitoring.](https://doi.org/10.1126/science.abi4680)
 Science 372 (6539), 248-248, Citations: 21 <span class="altmetric-embed"
 data-badge-popover="right" data-badge-type="4"
@@ -64,31 +64,31 @@ data-doi="10.1126/science.abi4680" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> Kyle G Horton, **Cecilia
 Nilsson**, Benjamin M Van Doren, Frank A La Sorte, Adriaan M Dokter,
 Andrew Farnsworth (2019) [Bright lights in the big cities: migratory
-birds? exposure to artificial light.](https://doi.org/10.1002/fee.2029)
+birds- exposure to artificial light.](https://doi.org/10.1002/fee.2029)
 Frontiers in Ecology and the Environment 17 (4), 209-214, Citations: 182
 <span class="altmetric-embed" data-badge-popover="right"
 data-badge-type="4" data-doi="10.1002/fee.2029"
 data-hide-no-mentions="true" data-hide-less-than="10"></span> <br><br>
 Adriaan M Dokter, Peter Desmet, Jurriaan H Spaaks, Stijn van Hoey,
 Lourens Veen, Liesbeth Verlinden, **Cecilia Nilsson**, Günther Haase,
-Hidde Leijnse, Andrew Farnsworth, Willem Bouten, Judy Shamoun?Baranes
+Hidde Leijnse, Andrew Farnsworth, Willem Bouten, Judy Shamoun-Baranes
 (2019) [bioRad: biological analysis and visualization of weather radar
 data.](https://doi.org/10.1111/ecog.04028) Ecography 42 (5), 852-860,
 Citations: 126 <span class="altmetric-embed" data-badge-popover="right"
 data-badge-type="4" data-doi="10.1111/ecog.04028"
 data-hide-no-mentions="true" data-hide-less-than="10"></span> <br><br>
 **Cecilia Nilsson**, Adriaan M Dokter, Liesbeth Verlinden, Judy
-Shamoun?Baranes, Baptiste Schmid, Peter Desmet, Silke Bauer, Jason
+Shamoun-Baranes, Baptiste Schmid, Peter Desmet, Silke Bauer, Jason
 Chapman, Jose A Alves, Phillip M Stepanian, Nir Sapir, Charlotte
 Wainwright, Mathieu Boos, Anna Górska, Myles HM Menz, Pedro Rodrigues,
 Hidde Leijnse, Pavel Zehtindjiev, Robin Brabant, Günther Haase, Nadja
-Weisshaupt, Micha? Ciach, Felix Liechti (2019) [Revealing patterns of
+Weisshaupt, Micha- Ciach, Felix Liechti (2019) [Revealing patterns of
 nocturnal migration using the European weather radar
 network.](https://doi.org/10.1111/ecog.04003) Ecography 42 (5), 876-886,
 Citations: 125 <span class="altmetric-embed" data-badge-popover="right"
 data-badge-type="4" data-doi="10.1111/ecog.04003"
 data-hide-no-mentions="true" data-hide-less-than="10"></span> <br><br>
-Silke Bauer, Judy Shamoun?Baranes, **Cecilia Nilsson**, Andrew
+Silke Bauer, Judy Shamoun-Baranes, **Cecilia Nilsson**, Andrew
 Farnsworth, Jeffrey F Kelly, Don R Reynolds, Adriaan M Dokter, Jennifer
 F Krauel, Lars B Petterson, Kyle G Horton, Jason W Chapman (2019) [The
 grand challenges of migration ecology that radar aeroecology can help
@@ -96,7 +96,7 @@ answer.](https://doi.org/10.1111/ecog.04083) Ecography 42 (5), 861-875,
 Citations: 112 <span class="altmetric-embed" data-badge-popover="right"
 data-badge-type="4" data-doi="10.1111/ecog.04083"
 data-hide-no-mentions="true" data-hide-less-than="10"></span> <br><br>
-Tsung?Yu Lin, Kevin Winner, Garrett Bernstein, Abhay Mittal, Adriaan M
+Tsung-Yu Lin, Kevin Winner, Garrett Bernstein, Abhay Mittal, Adriaan M
 Dokter, Kyle G Horton, **Cecilia Nilsson**, Benjamin M Van Doren, Andrew
 Farnsworth, Frank A La Sorte, Subhransu Maji, Daniel Sheldon (2019)
 [MistNet: Measuring historical bird migration in the US using archived
@@ -116,7 +116,7 @@ data-doi="10.1111/gcb.14531" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> Judy Shamoun-Baranes,
 **Cecilia Nilsson**, Silke Bauer, Jason Chapman (2019) [Taking radar
 aeroecology into the 21st century.](https://doi.org/10.1111/ecog.04582)
-Ecography 42 (5), 847?851, Citations: 20 <span class="altmetric-embed"
+Ecography 42 (5), 847-851, Citations: 20 <span class="altmetric-embed"
 data-badge-popover="right" data-badge-type="4"
 data-doi="10.1111/ecog.04582" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> Patrick B Newcombe, **Cecilia
@@ -135,7 +135,7 @@ data-badge-popover="right" data-badge-type="4"
 data-doi="10.1111/ibi.12704" data-hide-no-mentions="true"
 data-hide-less-than="10"></span> <br><br> **Cecilia Nilsson**, Adriaan M
 Dokter, Baptiste Schmid, Martina Scacco, Liesbeth Verlinden, Johan
-Bäckman, Günther Haase, Giacomo Dell?Omo, Jason W Chapman, Hidde
+Bäckman, Günther Haase, Giacomo Dell-Omo, Jason W Chapman, Hidde
 Leijnse, Felix Liechti (2018) [Field validation of radar systems for
 monitoring bird migration.](https://doi.org/10.1111/1365-2664.13174)
 Journal of Applied Ecology 55 (6), 2552-2564, Citations: 96
