@@ -13,8 +13,8 @@ In 2017 I was awarded a Edward W. Rose Postdoctoral Fellowship and spent 2 years
 
 After that I worked as a Marie Skłodowska-Curie post doc fellow (funded through the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement MigrationRadar No 844360) at the Center for Macroecology and Evolution at the University of Copenhagen.
 
-Currently I am a researcher at the Biology Department, Lund University. My research now focuses on using weather radars to monitor biodiversity at large scales, differences between migration systems, bird movements in extreme conditions, and the conflicts that arise when birds and humans share aerial habitat.
+Currently I am a researcher at the Biology Department, Lund University. My research now focuses on using weather radars to monitor biodiversity at large scales, disruptions to animal migration, bird movements in extreme conditions, and the conflicts that arise when birds and humans share aerial habitat.
 
-I am part of the [GloBAM](https://globam.science) international network (see also [ENRAM](http://www.enram.eu)), working on improving the quality and access of weather radar data for biological research. 
+I help maintain the [Aloft](https://aloftdata.eu) weather radar data portal and I am part of the [HiRad](https://hirad.science) international network (see also [ENRAM](http://www.enram.eu) and [GloBAM](https://globam.science)), working on improving the quality and access of weather radar data for biological research. 
 
-My research is funded by [FORMAS](https://formas.se/en/start-page.html), the Swedish Research Council for Sustainable Development.  
+My research is funded by the European Research Council (grant agreement 101231135) and [FORMAS](https://formas.se/en/start-page.html), the Swedish Research Council for Sustainable Development.
